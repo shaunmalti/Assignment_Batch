@@ -1,0 +1,1545 @@
+Title
+Title
+"""Click-fluors"": Modular fluorescent saccharide sensors based on a 1
+"""Inosaminoacids"": novel inositol-amino acid hybrid structures accessed by microbial arene oxidation"
+A bimetallic iron(iii) catalyst for CO2/epoxide coupling
+A highly selective red-emitting FRET fluorescent molecular probe derived from BODIPY for the detection of cysteine and homocysteine: An experimental and theoretical study
+A hydride-rich magnesium cluster
+"A magnesium-mediated cascade assembly for the atom-economical synthesis of bis(imidazolidine-2
+A pyridinium cation-? interaction sensor for the fluorescent detection of alkyl halides
+A thin film detection/response system for pathogenic bacteria
+Accessing the antipodal series in microbial arene oxidation: a novel diene rearrangement induced by tricarbonyliron(0) complexation
+Activation of an alkyl C-H bond geminal to an agostic interaction: an unusual mode of base-induced C-H activation
+Association of titania with nonionic block copolymers in ethanol: the early stages of templating and film formation
+Atomistic structure of a micelle in solution determined by wide Q-range neutron diffraction
+Band alignment of rutile and anatase TiO2
+Beryllium-induced C-N bond activation and ring opening of an N-heterocyclic carbene
+Beryllosilicate frameworks and zeolites
+Carbohydrate sensing using a fluorescent molecular tweezer
+Catalytic enantioselective Dieckmann-type annulation: Synthesis of pyrrolidines with quaternary stereogenic centers
+Catalytic hydrodefluorination of aromatic fluorocarbons by ruthenium N-heterocyclic carbene complexes
+Cationic surface reconstructions on cerium oxide nanocrystals: an aberration-corrected HRTEM study
+Characterization of solid-state dye-sensitized solar cells utilizing high absorption coefficient metal-free organic dyes
+Complex anion inclusion compounds: flexible anion-exchange materials
+Computational mutagenesis reveals the role of active-site tyrosine in stabilising a boat conformation for the substrate: QM/MM molecular dynamics studies of wild-type and mutant xylanases
+Controlling the formation of benzoic acid: isonicotinamide molecular complexes
+Crystallography of hydrogen-containing compounds: realizing the potential of neutron powder diffraction
+"Design
+Direct growth of metal sulfide nanoparticle networks in solid-state polymer films for hybrid inorganic-organic solar cells
+Directed self-assembly of dipeptides to form ultrathin hydrogel membranes
+Discovery of an organic trefoil knot
+Double gold-catalysed annulation of indoles by enynones
+"Dye-sensitized solar cells based on oriented TiO2 nanotube arrays: transport
+"Easy-separable magnetic nanoparticle-supported Pd catalysts: Kinetics
+Electrochemical method for the determination of enantiomeric excess of binol using redox-active boronic acids as chiral sensors
+Enantiomeric profiling of chiral drugs in wastewater and receiving waters
+Engineering the optical response of the titanium-MIL-125 metal-organic framework through ligand functionalization
+Ensemble-averaged QM/MM kinetic isotope effects for the SN2 reaction of cyanide anions with chloroethane in DMSO solution
+Evolution of non-ionic surfactant-templated silicate films at the air-liquid interface
+Experimental and computational investigation of C-N bond activation in ruthenium N-heterocyclic carbene complexes
+"Exploiting ?/? coordination isomerism to prepare homologous organoalkali metal (Li
+Exploring an anti-crystal engineering approach to the preparation of pharmaceutically active ionic liquids
+Exploring the formation pathways of donor-acceptor catenanes in aqueous dynamic combinatorial libraries
+Extraction of lignin from lignocellulose at atmospheric pressure using alkylbenzenesulfonate ionic liquid
+"Fluoride-rich
+Formation of low density hydrous iron oxide via conformal transformation of MIL-53(Fe)
+Formation of shear thinning gels from partially oxidised cellulose nanofibrils
+Free-standing ordered mesoporous silica films synthesized with surfactant-polyelectrolyte complexes at the air/water interface
+"Friedel-Crafts acylation of pyrroles and indoles using 1
+Glucose sensing via aggregation and the use of �knock-out� binding to improve selectivity
+Group 2 promoted hydrogen release from NMe2h�BH3: intermediates and catalysis
+Group 4 salalen complexes and their application for the ring-opening polymerization of rac-lactide
+Group 4 salalen complexes for the production and degradation of polylactide
+"Heavier alkaline earth catalysts for the intermolecular hydroamination of vinylarenes
+Heavier group 2 metals and intermolecular hydroamination: a computational and synthetic assessment
+Helical frontier orbitals of conjugated linear molecules
+Highly active and stereoselective zirconium and hafnium alkoxide initiators for solvent-free ring-opening polymerization of rac-lactide
+Highly efficient visible-light driven photochromism: developments towards a solid-state molecular switch operating through a triplet-sensitised pathway
+"Hingeless negative linear compression in the mechanochromic gold complex [(C6F5Au)2(?-1
+How efficient is electron collection in dye-sensitized solar cells? comparison of different dynamic methods for the determination of the electron diffusion length
+Influence of crystallinity and energetics on charge separation in polymer�inorganic nanocomposite films for solar cells
+Interactions between amino acid-tagged naphthalenediimide and single walled carbon nanotubes for the design and construction of new bioimaging probes
+Interlocked host anion recognition by an indolocarbazole-containing [2]rotaxane
+Intramolecular hydroamination of aminoalkenes by calcium and magnesium complexes: a synthetic and mechanistic study
+Iridium-catalysed amine alkylation with alcohols in water
+"Kinetic isotope effects from QM/MM subset hessians: ""Cut-off"" analysis for SN2 methyl transfer in solution"
+Kinetics and mechanism of light-driven oxygen evolution at thin film ?-Fe2O3 electrodes
+Lightweight nanoporous metal hydroxide-rich zeotypes
+"Lithium battery materials LiMPO4 (M = Mn
+Lithium coordination sites in LixTiO2(B): a structural and computational study
+Local probes show that framework modification in zeolites occurs on ammonium exchange without calcination
+Measurement of the binding of cholera toxin to GM1 gangliosides on solid supported lipid bilayer vesicles and inhibition by europium (III) chloride
+Mild C-H halogenation of anilides and the isolation of an unusual palladium(I)-palladium(II) species
+Nanostructure of cellulose microfibrils in spruce wood
+Nanostructured hybrid polymer-inorganic solar cell active layers formed by controllable in situ growth of semiconducting sulfide networks
+Nanostructuring of ?-MnO2 : The important role of surface to bulk ion migration
+Nature of the band gap of In2O3revealed by first-principles calculations and x-ray spectroscopy
+New insights into water splitting at mesoporous ?-Fe2O3 films: a study by modulated transmittance and impedance spectroscopies
+O2 insertion into a cadmium-carbon bond: structural characterization of organocadmium peroxides
+On the appearance of nitrite anion in [PdX(OAc)L2] and [Pd(X)(C?N)L] syntheses (X = OAc or NO2): Photocrystallographic identification of metastable Pd(?1-ONO)(C?N)PPh3
+Paracetamol form II: An elusive polymorph through facile multicomponent crystallization routes
+Platform technology for dienone and phenol�formaldehyde architectures
+Post-synthetic modification of tagged metal-organic frameworks
+Precursor transformation during molecular oxidation catalysis with organometallic iridium complexes
+Probing carboxylate Gibbs transfer energies via liquid|liquid transfer at triple phase boundary electrodes: ion-transfer voltammetry versus COSMO-RS predictions
+Probing synergy between two catalytic strategies in the glycoside hydrolase O-GlcNAcase using multiple linear free energy relationships
+Proton-driven switching between receptors for C60 and C70
+Quantitative analysis of the factors limiting solar power transduction by Synechocystis sp. PCC 6803 in biological photovoltaic devices
+Rational design of d-PeT phenylethynylated-carbazole monoboronic acid fluorescent sensors for the selective detection of ?-hydroxyl carboxylic acids and monosaccharides
+"Remote stereocontrol in [3
+Reversible 100% linkage isomerization in a single-crystal to single-crystal transformation: photocrystallographic identification of the metastable [Ni(dppe)(?1-ONO)Cl] isomer
+"Rhodium-catalyzed 1
+Robust chiral zirconium alkoxide initiators for the room-temperature stereoselective ring-opening polymerisation of rac-lactide
+Ruthenium-catalyzed meta sulfonation of 2-phenylpyridines
+Ruthenium-catalyzed N-alkylation of amines and sulfonamides using borrowing hydrogen methodology
+Ruthenium-catalyzed oxidation of alcohols into amides
+S. aureus IgG-binding proteins SpA and Sbi: host specificity and mechanisms of immune complex formation
+Search for a structural response to the intermediate phase in GexSe1-x glasses
+"Selective amine cross-coupling using iridium-catalyzed ""borrowing hydrogen"" methodology"
+Shining light on the stability of metal thiosemicarbazonate complexes in living cells by FLIM
+Structurally informed site-directed mutagenesis of a stereochemically promiscuous aldolase to afford stereochemically complementary biocatalysts
+Structure and lithium transport pathways in Li2FeSiO4 cathodes for lithium batteries
+Structure of cellulose microfibrils in primary cell walls from collenchyma
+Sulfur-tagged metal�organic frameworks and their post-synthetic oxidation
+Superbasicity of a bis-guanidino compound with a flexible linker: a theoretical and experimental study
+Supramolecular assemblies of tripodal porphyrin hosts and C60
+Surface nucleated growth of dipeptide fibres
+Surface structures and crystal morphologies of LiFePO4: relevance to electrochemical behaviour
+Synergistic empirical and theoretical study on the stereoselective mechanism for the aluminum salalen complex mediated polymerization of rac-Lactide
+Synthesis and characterization of Cu2ZnSnS4 absorber layers by an electrodeposition-annealing route
+Synthesis and post-synthetic modification of MIL-101(Cr)-NH2via a tandem diazotisation process
+"Synthesis
+"Synthesis
+"Temperature- and pressure-induced proton transfer in the 1:1 adduct formed between squaric acid and 4
+The lithium intercalation process in the low-voltage lithium battery anode Li1+xV1-xO2
+"The occurrence of pharmaceuticals
+"The removal of pharmaceuticals
+The structure and dynamics of hydrated and hydroxylated magnesium oxide nanoparticles
+Theoretical description of carrier mediated magnetism in cobalt doped ZnO
+"Thermodynamics of supramolecular naphthalenediimide nanotube formation: The influence of solvents
+Total synthesis of (+)-grandifloracin by iron complexation of a microbial arene oxidation product
+TRPA1 mediates spinal antinociception induced by acetaminophen and the cannabinoid ?9-tetrahydrocannabiorcol
+Uncovering the intrinsic geometry from the atomic pair distribution function of nanomaterials
+"Visible
+Zinc(II) homogeneous and heterogeneous species and their application for the ring-opening polymerisation of rac-lactide
+"2
+A cobalt complex redox shuttle for dye-sensitized solar cells with high open-circuit potentials
+A conserved motif flags acyl carrier proteins for ?-branching in polyketide synthesis
+A ferrocene nucleic acid oligomer as an organometallic structural mimic of DNA
+A Highly Selective Ferrocene-Based Planar Chiral PIP (Fc-PIP) Acyl Transfer Catalyst for the Kinetic Resolution of Alcohols
+A linked structural and electronic transition in Na0.63CoO2
+A model Hamiltonian to simulate the complex photochemistry of benzene II
+A Selective Blocking Method To Control the Overgrowth of Pt on Au Nanorods
+A simple approach to room temperature phosphorescent allenylidene complexes
+Acid-induced degradation of phosphorescent dopants for OLEDs and its application to the synthesis of tris-heteroleptic iridium(III) bis-cyclometalated complexes
+Amide Analogues of CD1d Agonists Modulate iNKT-Cell-Mediated Cytokine Production
+"An exo- and Enantioselective 1
+Applications of proton transfer reaction time-of-flight mass spectrometry for the sensitive and rapid real-time detection of solid high explosives
+Asbestos-like pathogenicity of long carbon nanotubes alleviated by chemical functionalization
+Atomic Resolution Analysis of Silver Ion-Exchanged Zeolite?A
+Atomic-scale mechanistic features of oxide ion conduction in apatite-type germanates
+Aziridine scaffolds for the detection and quantification of hydrogen-bonding interactions through transition-state stabilization.
+Bacteria clustering by polymers induces the expression of quorum-sensing-controlled phenotypes
+Bimetallic aerogels : High-performance electrocatalysts for the oxygen reduction reaction
+Binding of a Designed Anti-Cancer Drug to the Central Cavity of an RNA Three-Way Junction
+Biotemplating of Metal Carbide Microstructures: The Magnetic Leaf
+"Bridgehead Lithiation-Substitution of Bridged Ketones
+"Cathodic Corrosion: A Quick
+Chiral bases as useful probes of lithium amide reactivity
+"Competing ultrafast intersystem crossing and internal conversion in the ""channel 3"" region of benzene"
+Concise Enantioselective Synthesis of ent-Malbrancheamide B
+Counterion Effects in a Gold-Catalysed Synthesis of Pyrroles from Alkynyl Aziridines
+Delivery of siRNA mediated by histidine-containing reducible polycations
+Derivation of enhanced potentials for uranium dioxide and the calculation of lattice and intrinsic defect properties
+"Design
+Designing a bernal spiral from patchy colloids
+"Detection of pH in Microemulsions
+Development of a protocol to measure volatile organic compounds in human breath: a comparison of rebreathing and on-line single exhalations using proton transfer reaction mass spectrometry
+Diffraction study of pressure-amorphized ZrW2O8 using in situ and recovered samples
+Dopant-induced 2D-3D Transitions in Small Au-containing Clusters:  DFT-Global Optimisation of 8-atom Au-Ag Nanoalloys
+Doped-carbon electrocatalysts with trimodal porosity from a homogeneous polypeptide gel
+Effect of Headgroup on the Physicochemical Properties of Phospholipid Bilayers in Electric Fields: Size Matters
+"Effect of oxygen content on the Si-29 NMR
+Electrocatalytic Oxidation of Alcohols on Gold in Alkaline Media: Base or Gold Catalysis?
+Electrochemical Method for the Determination of Enantiomeric Excess of Binol Using Redox-Active Boronic Acids as Chiral Sensors
+"Emergent complexity from simple anisotropic building blocks : Shells
+"Energetic
+Enhanced anticancer activity of multi-walled carbon nanotube-methotrexate conjugates using cleavable linkers
+Exploring the sloped-to-peaked S-2/S-1 seam of intersection of thymine with electronic structure and direct quantum dynamics calculations
+Filled and glycosylated carbon nanotubes for in vivo radioemitter localization and imaging
+Fine-tuning the transition temperature of a stimuli-responsive polymer by a simple blending procedure
+From Paper to Structured Carbon Electrodes by Inkjet Printing
+Fullerene Resist Materials for the 32?nm Node and Beyond
+Glucose Sensing via Aggregation and the Use of �Knock-Out� Binding To Improve Selectivity
+Gold- or Platinum-Catalyzed Synthesis of Sulfur Heterocycles: Access to Sulfur Ylides without Using Sacrificial Functionality
+Gold-phosphine binding to de novo designed coiled coil peptides
+High coatings of Ru(II) complexes on gold nanoparticles for single particle luminescence imaging in cells
+High-pressure and -temperature ion exchange of aluminosilicate and gallosilicate natrolite.
+"High-temperature redox chemistry of La1.5+xSr0.5-xCo0.5Ni0.5O4+delta (x = 0.0
+Hydrogen storage and ionic mobility in amide-halide systems
+Hydrolytic catalysis and structural stabilization in a designed metalloprotein
+"In situ
+Interaction between manufactured gold nanoparticles and naturally occurring organic macromolecules
+"Intermolecular and Selective Synthesis of 2
+Intracellular synchrotron nanoimaging and DNA damage/genotoxicity screening of novel lanthanide-coated nanovectors
+Low-Energy Electron Attachment to the Dichlorodifluoromethane (Ccl     2     F     2     ) Molecule     &gt;�
+Magnetic resonance imaging of the rheology of ionic liquid colloidal suspensions
+Metabolomic profiling of drug responses in acute myeloid leukaemia cell lines.
+Multimode quantum dynamics using Gaussian wavepackets: The Gaussian-based multiconfiguration time-dependent Hartree (G-MCTDH) method applied to the absorption spectrum of pyrazine
+"Multiple
+Multiwalled carbon nanotube�doxorubicin supramolecular complexes for cancer therapeutics
+Noncovalent DNA-binding metallo-supramolecular cylinders prevent DNA transactions in vitro.
+Optimizing the Polarization Matrix for ex Situ Dynamic Nuclear Polarization
+Optimizing the signal enhancement in cryogenic ex situ DNP-NMR spectroscopy.
+Organic-inorganic double shell composite microcapsules
+Overgrowth of Rhodium on Gold Nanorods.
+Oxygen Defects and Novel Transport Mechanisms in Apatite Ionic Conductors: Combined O-17 NMR and Modeling Studies
+Pair distribution function analysis of pressure treated zeolite Na-A
+Pair distribution function-derived mechanism of a single-crystal to disordered to single-crystal transformation in a hemilabile metal�organic framework
+pH-controlled delivery of luminescent europium coated nanoparticles into platelets.
+Photocontrolled binding and binding-controlled photochromism within anthracene-modified DNA
+"Predicting the Optical Properties of Core�Shell and Janus Segregated Au�M Nanoparticles (M = Ag
+ProMetCS: An Atomistic Force Field for Modeling Protein-Metal Surface Interactions in a Continuum Aqueous Solvent
+"Proton transfer reaction mass spectrometry and the unambiguous real-time detection of 2
+Purely heterometallic lanthanide(III) macrocycles through controlled assembly of disulfide bonds for dual color emission.
+Quantum rotor induced hyperpolarization
+Rapid access to polycyclic indolines related to the stephacidin alkaloids using a radical cascade
+Rational design of helical architectures
+"Reaction of 1
+Reversible Immobilization onto PEG-based Emulsion-templated Porous Polymers by Co-assembly of Stimuli Responsive Polymers
+Self-Assembly of Functionalizable Two-Component 3D DNA Arrays through the Induced Formation of DNA Three-Way-Junction Branch Points by Supramolecular Cylinders
+Semipinacol rearrangement of cis-fused ?-lactam diols into keto-bridged bicyclic lactams
+Silicon Doping in Ba2In2O5: Example of a Beneficial Effect of Silicon Incorporation on Oxide Ion/Proton Conductivity
+Site-specific introduction of gold-carbenoids by intermolecular oxidation of ynamides or ynol ethers
+Sizing of Reverse Micelles in Microemulsions using NMR Measurements of Diffusion
+Sr4Fe6O12: Low-Temperature Fe2+-Fe3+ Charge Order within Pairs of Edge-Linked Tetrahedra
+Stable green electroluminescence from an iridium tris-heteroleptic ionic complex
+"Structural motifs
+Structure and dynamics of phospholipid bilayer films under electrochemical control
+"Sulfur Monoxide Transfer from peri-Substituted Trisulfide-2-oxides to Dienes: Substituent Effects
+Supramolecular iron cylinder with unprecedented DNA binding is a potent cytostatic and apoptotic agent without exhibiting genotoxicity.
+Switching the Chirality of the Metal Environment Alters the Coordination Mode in Designed Peptides
+Synthesis of azetidines and pyrrolidines via iodocyclisation of homoallyl amines and exploration of activity in a zebrafish embryo assay
+Synthesis of copper chloride nanowires by thermal treatment in the presence of zeolite X
+Synthesis of Highly Magnetic Iron Carbide Nanoparticles via a Biopolymer Route
+Synthetic Polymers for Simultaneous Bacterial Sequestration and Quorum Sense Interference
+Temporary silicon connection strategies in intramolecular allylation of aldehydes with allylsilanes
+The effect of extra framework species on the intrinsic negative thermal expansion property of zeolites with the LTA topology.
+The promoting effect of adsorbed carbon monoxide on the oxidation of alcohols on a gold catalyst
+The radical ion chemistry of s-nitrosylated peptides
+"The synthesis
+Tilted and helical columnar phases for an axially symmetric discoidal system
+Total synthesis of kottamide E
+Using diastereopeptides to control metal ion coordination in proteins
+[bmim][OTf] as co-Solvent/Promoter in Room Temperature Reactivity-Based One Pot Glycosylation Reactions
+A Combined Theoretical and Experimental Study on the Role of Spin States in the Chemistry of Fe(CO)5 Photoproducts
+A conserved motif flags acyl carrier proteins for ?-branching in polyketide synthesis
+A de novo peptide hexamer with a mutable channel
+A desorption mechanism of water following vacuum-ultraviolet irradiation on amorphous solid water at 90 K
+A diagonal orbital-invariant explicitly-correlated coupled-cluster method
+A flexible one-pot route to metal/metal oxide nanocomposites
+A ligand knowledge base for carbenes (LKB-C): maps of ligand space
+A New General Synthetic Strategy for Phase-Pure Complex Functional Materials
+A simple and accessible synthetic lectin for glucose recognition and sensing
+A simple entry into nido-C2B10 clusters: HCl promoted cleavage of the C-C bond in ortho-carboranyl diphosphines
+"A Simple
+A synthetic lectin for O-linked beta-N-acetylglucosamine
+A synthetic lectin for ?-glucosyl
+A theoretical and mass spectrometry study of the fragmentation of mycosporine-like amino acids
+Ab-initio investigation of lithium on the diamond C(100) surface
+Accurate modeling of Pd(0) + PhX oxidative addition kinetics
+Alkene Hydroboration: Hot Intermediates That React While They Are Cooling
+Alkenone and boron based Pliocene pCO2 records
+An analytical inversion method for determining regional and global emissions of greenhouse gases: Sensitivity studies and application to halocarbons
+An exon splice enhancer primes IGF2:IGF2R binding site structure and function evolution.
+An expedient route to substituted furans via olefin cross-metathesis
+Analysis of archaeal ether lipids in bovine faeces
+"Analysis of Streptomyces coelicolor Phosphopantetheinyl Transferase
+Anatomy of phobanes. Diastereoselective synthesis of the three isomers of n-butylphobane and a comparison of their donor properties
+Anionic Surfactant Ionic Liquids with 1-Butyl-3-methyl-imidazolium Cations: Characterization and Application
+Anionic Surfactants and Surfactant Ionic Liquids with Quaternary Ammonium Counterions
+Aqueous stabilization and self-assembly of graphene sheets into layered bio-nanocomposites using DNA
+Aryl Trifluoroborates in Suzuki-Miyaura Coupling: The Roles of Endogenous Aryl Boronic Acid and Fluoride
+"Asymmetric beta-Boration of alpha
+Ate-Complexes of Secondary Boronic Esters as Chiral Organometallic-Type Nucleophiles for Asymmetric Synthesis
+Authentic Heterologous Expression of the Tenellin Iterative Polyketide Synthase Nonribosomal Peptide Synthetase Requires Coexpression with an Enoyl Reductase
+Automated protein-ligand interaction screening by mass spectrometry
+"Bicyclic oxygen heterocycles from ?
+Bidentates versus monodentates in asymmetric hydrogenation catalysis: Synergic effects on rate and allosteric effects on enantioselectivity
+Biotemplated synthesis of catalytic Au-Pd nanoparticles
+Boron-Nitrogen Analogues of the Fluorenyl Anion
+"Bulk
+Calculation of properties of crystalline lithium hydride using correlated wave function theory
+Capturing IN+ monomers in a neutral weakly coordinating environment
+Carbon Nanotube/Polyaniline Composite Nanofibers: Facile Synthesis and Chemosensors
+Catalytic Conversion of Ethanol into an Advanced Biofuel: Unprecedented Selectivity for n-Butanol
+Catalytic dehydrocoupling/dehydrogenation of n-methylamine-borane and ammonia-borane: synthesis and characterization of high molecular weight polyaminoboranes
+Catalytic Redistribution and Polymerization of Diborazanes: Unexpected Observation of Metal-Free Hydrogen Transfer between Aminoboranes and Amine-Boranes
+"Cationic Au(I) alkyne complexes: synthesis
+"Communications: Accurate and efficient approximations to explicitly correlated coupled cluster singles and doubles
+Comparing the mechanism of water condensation and evaporation in glassy aerosol
+Comparing the ultraviolet photostability of azole chromophores
+"Complex and hierarchical micelle architectures from diblock copolymers using living
+Complexity from Simplicity: Tricyclic Aziridines from the Rearrangement of Pyrroles by Batch and Flow Photochemistry
+"Computational descriptors for chelating P
+Conformational analysis of PEt3 and P(OMe)3 in metal complexes
+Contrasting the excited state reaction pathways of phenol and para-methylthiophenol in the gas and liquid phases
+Core Modification of Cytisine: A Modular Synthesis
+Counterintuitive Kinetics in Tsuji-Trost Allylation: Ion-pair Partitioning and Implications for Asymmetric Catalysis
+"Cryptocatalytic 1
+Crystal engineering of lattice metrics of perhalometallate salts and MOFs
+Cyanobacterial blooms tied to volcanism during the 5-million-year Permo-Triassic biotic crisis
+Cylindrical Micelles of Controlled Length with a Pi-Conjugated Polythiophene Core via Crystallization-Driven Self-Assembly
+Delineating Poly(Aniline) Redox Chemistry using Tailored Oligo(Aryleneamine)s: Towards Oligo(Aniline)-based Organic (Semi)conductors with Tunable (Opto)electronic Properties
+Design and optimization of a new self-nanoemulsifying drug delivery system
+Determinants of Selectivity in Drug Metabolism by Cytochrome P450: QM/MM Modeling of Dextromethorphan Oxidation by CYP2D6
+Determining the dissociation threshold of ammonia trimers from action spectroscopy of small clusters
+Dichroism in Dye-Doped Colloidal Liquid Crystals
+"Direct and Regioselective C-H Alkenylation of Tetrahydropyrido[1
+Direct Kinetic Measurements of Criegee Intermediate (CH(2)OO) Formed by Reaction of CH(2)I with O(2)
+Direct measurement of normal and shear forces between surface-grown polyelectrolyte layers
+Direct measurement of osmotic pressure via adaptive confinement of quasi hard disc colloids
+Direct Measurements of Conformer-Dependent Reactivity of the Criegee Intermediate CH3CHOO
+Direct observation of a local structural mechanism for dynamic arrest
+Direct observation of hydrodynamic instabilities in driven non-uniform colloidal dispersions
+Direct Observation of Hydrogen Tunneling Dynamics in Photoexcited Phenol
+Direct Observation of the Gas-Phase Criegee Intermediate (CH2OO) in Dimethyl Sulphoxide Oxidation
+Directing Group Enhanced Carbonylative Ring Expansions of Amino-Substituted Cyclopropanes: Rhodium-Catalyzed Multicomponent Synthesis of N-Heterobicyclic Enones
+Distance-Independent Charge-Transfer Resistance at Gold Electrodes Modified by Thiol Monolayers and Metal Nanoparticles
+"Distinct Reactivity of Pd(OTs)2: The Intermolecular Pd(II)-Catalyzed 1
+Does Compound I Vary Significantly between Isoforms of Cytochrome P450?
+Earliest date for milk use in the Near East and southeastern Europe linked to cattle herding
+Earliest evidence for cheese making in the sixth millennium BC in northern Europe.
+Earliest horse harnessing and milking
+Electrochemical Properties of Two Dimensional Assemblies of Insulating Diamond Particles
+Electrostatic charging of nonpolar colloids by reverse micelles
+Electrostatically gated membrane permeability in inorganic protocells
+Enantiodivergent Conversion of Secondary Alcohols into Tertiary Alcohols
+Enantioselective Construction of Quaternary Stereogenic Centers from Tertiary Boronic Esters: Methodology and Applications
+Engineered Thiomarinol Antibiotics Active against MRSA Are Generated by Mutagenesis and Mutasynthesis of Pseudoalteromonas SANK73390
+"Estimating UK methane and nitrous oxide emissions from 1990 to 2007 using an inversion modelling approach
+Evidence of roaming dynamics and multiple channels for molecular elimination in NO3 photolysis
+Exact nonadditive kinetic potentials for embedded density functional theory
+Exploiting Boron-Zinc Transmetallation for the Arylation of Benzyl Halides: What are the Reactive Species?
+Exploring nuclear motion through conical intersections in the UV photodissociation of phenols and thiophenol
+Facile Synthesis of Water-Dispersible Conducting Polymer Nanospheres
+First dairying in green Saharan Africa in the fifth millennium BC
+First-order phase transition in a Model Glass Former:coupling of local structure and dynamics
+Floating nematic phase in colloidal platelet-sphere mixtures
+Forest contraction in north equatorial Southeast Asia during the Last Glacial Period
+Formation of a stable mimic of ambient particulate matter containing viable infectious respiratory syncytial virus and its dry-deposition directly onto cell cultures
+From ultrananocrystalline diamond to single crystal diamond growth in hot filament and microwave plasma-enhanced CVD reactors: A unified model for growth rates and grain sizes
+Frustrated Lewis Pairs beyond the Main Group: Cationic Zirconocene-Phosphinoaryloxide Complexes and Their Application in Catalytic Dehydrogenation of Amine Boranes
+"Frustrated Lewis Pairs beyond the Main Group: Synthesis
+Full-dimensional quantum calculations of the ground-state tunneling splitting of malonaldehyde using an accurate ab initio potential snergy surface
+GaP-ZnS Solid Solutions: Semiconductors for Efficient Visible Light Absorption and Emission
+General routes to alkyl phosphatrioxaadamantane ligands
+"Genetic
+Giant Nanotubes Loaded with Artificial Peroxidase Centers: Self-Assembly of Supramolecular Amphiphiles as a Tool To Functionalize Nanotubes
+Glass formation and unusual hygroscopic growth of iodic acid solution droplets with relevance for iodine mediated particle formation in the marine boundary layer
+Global and regional emissions of HFC-125 (CHF2CF3) from in situ and air archive atmospheric observations at AGAGE and SOGE observatories
+Gold-Catalyzed Direct Arylation
+HFC-23 (CHF3) emission trend response to HCFC-22 (CHClF2) production and recent HFC-23 emission abatement measures
+Highly efficient blue phosphorescence from triarylboron-functionalized platinum (II) complexes of N-heterocyclic carbenes
+"Highly Efficient Narasaka-Heck Cyclizations Mediated by P(3
+History of atmospheric SF6 from 1973 to 2008
+Hydrogen Adsorption at Strained Pd Nanoshells
+Hydrothermal growth of ZnO nanorods aligned parallel to the substrate surface
+Identification of a disinterred grave by molecular and stable isotope analysis
+Impacts of mechanistic changes on HOx formation and recycling in the oxidation of isoprene
+Implementation of the full explicitly correlated coupled-cluster singles and doubles model CCSD-F12 with optimally reduced auxiliary basis dependence
+Improving density functional theory for crystal polymorph energetics
+In vivo Mutational Analysis of the Mupirocin Gene Cluster Reveals Labile Points in the Biosynthetic Pathway: the 'Leaky Hosepipe' Mechanism
+Inclusion of Dispersion Effects Significantly Improves Accuracy of Calculated Reaction Barriers for Cytochrome P450 Catalyzed Reactions
+Incorporation of Tellurocysteine into Glutathione Transferase Generates High Glutathione Peroxidase Efficiency
+Influence of organic films on the evaporation and condensation of water in aerosol
+Interception of Excited Vibrational Quantum States by O-2 in Atmospheric Association Reactions
+Interfacial Assembly of Protein-polymer Nano-conjugates into Stimulus-Responsive Biomimetic Protocells
+Interfacial storage of noble gases and other trace elements in magmatic systems
+Intramolecular Prins cyclisations for the stereoselective synthesis of bicyclic tetrahydropyrans
+Ion imaging study of NO3 radical photodissociation dynamics: characterization of multiple reaction pathways
+Ionic Catch and Release Oligosacharide Synthesis (ICROS)
+Ionic-Liquid based Catch and Release Mass Spectroscopy Tags for Enzyme Monitoring
+Iron(I) in Negishi Cross-Coupling Reactions
+Kinetic and Thermodynamic Analysis of Processes Relevant to Initiation of Olefin Metathesis by Ruthenium Phosphonium Alkylidene Catalysts
+Large terrestrial and marine carbon and hydrogen isotope excursions in a new Paleocene/Eocene boundary section from Tanzania
+Late stage oxidations during the biosynthesis of the 2-pyridone tenellin in the entomopathogenic fungus Beauveria bassiana
+Lewis acid-catalyzed hydrogenation: B(C6F5)3-mediated reduction of imines and nitriles with H2
+Local explicitly correlated second-order perturbation theory for the accurate treatment of large molecules
+Long-Range Electronic Communication between Metal Nanoparticles and Electrode Surfaces Separated by Polyelectrolyte Multilayer Films
+Lubrication at physiological pressures by polyzwitterionic brushes
+Magnetic Control Over Liquid Surface Properties with Responsive Surfactants
+Magnetizing DNA and Proteins Using Responsive Surfactants
+Measurements of Mass and Heat Transfer at a Liquid Water Surface During Condensation or Evaporation of a Subnanometer Thickness Layer of Water
+'Measurements of the Timescales for the Mass Transfer of Water in Glassy Aerosol at Low Relative Humidity and Ambient Temperature
+Mechanism of Metal-Free Hydrogen Transfer between Amine-Boranes and Aminoboranes
+Metal-Bosonic Insulator-Superconductor Transition in Boron-Doped Granular Diamond
+"Metal-Free Catalytic Boration at the beta-Position of alpha
+Mild C-H Halogenation of Anilides and the Isolation of an Unusual Palladium(I)-Palladium(II) Species
+Monodisperse cylindrical micelles by crystallization-driven living self-assembly
+Mycological evidence of coprophagy from the feces of an Alaskan Late Glacial mammoth
+n??* interactions in proteins
+n-Alkan-2-one distributions in a northeastern China peat core spanning the last 16 kyr
+Nanoparticle Charge Control in Nonpolar Liquids: Insights from Small-Angle Neutron Scattering and Microelectrophoresis
+Nanoparticles can cause DNA damage across a cellular barrier
+Nanoporous organic alloys
+NCN Quantitative Measurement in a Laminar Low Pressure Flame
+Negative ion �chip-based� nanospray tandem mass spectrometry for the analysis of flavonoids in glandular trichomes of lychnophora ericoides mart. (asteraceae)
+New Polycyclic Borazine Species
+N-heterocyclic carbazole-based hosts for simplified single-layer phosphorescent OLEDs with high efficiencies
+NMR Solution Structure of a Photoswitchable Apoptosis Activating Bak Peptide Bound to Bcl-x(L)
+No straight path: roaming in both ground- and excited-state photolytic channels of NO3?NO+O2
+Non-Centrosymmetric Cylindrical Block Copolymer Micelles by Unidirectional Growth
+Nongenetic Reprogramming of a Fungal Highly Reducing Polyketide Synthase
+Oligotriphenylene Nanofiber Sensors for Detection of Nitro-based Explosives
+Organized nanostructured complexes of polyoxometalates and surfactants that exhibit photoluminescence and electrochromism
+Ozone-Depleting Substances (ODSs) and Related Chemicals
+Peptide-nucleotide microdoplets as a step towards a membrance-free protocell model
+Phase behavior of contact lens like particles: entropy driven competition between isotropic--nematic phase separation and clustering
+Plant-wax hydrogen isotopic evidence for postglacial variations in delivery of precipitation in the monsoon domain of China
+"Postglacial climate-change record in biomarker lipid compositions of the Hani peat sequence
+Proxy value of n-alkan-2-ones in the Hongyuan peat sequence to reconstruct Holocene climate changes on the eastern margin of the Tibetan Plateau
+"Quantitative NMR-Derived Interproton Distances Combined with Quantum Mechanical Calculations of 13C Chemical Shifts in the Stereochemical Determination of Conicasterol F
+Quiescent bilayers at the mica-water interface
+Random-coil:?-Helix Equilibria as a Reporter for the LewisX-LewisX Interaction
+Rational design and application of responsive alpha-helical peptide hydrogels
+Rational Domain Swaps Decipher Programming in Fungal Highly Reducing Polyketide Synthases and Resurrect an Extinct Metabolite
+Reaction dynamics of CN radicals with tetrahydrofuran in liquid solutions
+"Redox-Active
+"REMPI spectroscopy and predissociation of the C 1B1(v=0) rotational levels of H2O
+Renewed growth of atmospheric methane
+Reversible dioxygen binding in solvent-free liquid myoglobin
+Room-Temperature Palladium-Catalyzed CH Activation: ortho-Carbonylation of Aniline Derivatives
+Rotationally inelastic scattering of CD3 and CH3 with He: comparison of velocity map-imaging data with quantum scattering calculations
+"Ruthenium-catalyzed C-C bond forming transfer hydrogenation: carbonyl allylation from the alcohol or aldehyde oxidation level employing acyclic 1
+Self-assembling cages from coiled-coil peptide modules
+Self-Healing of an Epoxy Resin Using Scandium(III) Triflate as a Catalytic Curing Agent
+Significance of Nonstatistical Dynamics in Organic Reaction Mechanisms: Time-Dependent Stereoselectivity in Cyclopentyne-Alkene Cycloadditions
+Simplifying Iron-Phosphine Catalysts for Cross-Coupling Reactions
+Simulations of chemical vapor despoition diamond film growth using a kinetic monte carlo model
+Single-molecule magnet behaviour with a single metal center enhanced through peripheral ligand modifications
+Small-Angle Neutron Scattering Study of Microemulsion-Polymer Mixtures in the Protein Limit
+Solid state synthesis of coordination compounds from basic metal salts
+Spatially controlling neuronal adhesion and inflammatory reactions on implantable diamond
+Stabilization and enhanced reactivity of actinorhodin polyketide synthase minimal complex in polymer-nucleotide coacervate droplets
+Stable Fluorophosphines: Predicted and Realized Ligands for Catalysis
+Stereocontrolled organocatalytic synthesis of prostaglandin PGF(2 alpha) in seven steps
+Stereodynamics of Multistate Roaming
+Strain and Architecture-Tuned Reactivity in Ceria Nanostructures; Enhanced Catalytic Oxidation of CO to CO2
+Structural and dynamical features of multiple metastable glassy states in a colloidal system with competing interactions
+Structural Characterization of Binding Mode of Smoking Cessation Drugs to Nicotinic Acetylcholine Receptors through Study of Ligand Complexes with Acetylcholine-binding Protein
+Structure and malonyl CoA-ACP transacylase binding of Streptomyces coelicolor fatty acid synthase acyl carrier protein
+"Structure elucidation and stereoselective total synthesis of Pavettamine
+"Structure-Based Rationale for Selectivity in the Asymmetric Allylic Alkylation of Cycloalkenyl Esters Employing the Trost 'Standard Ligand' (TSL): Isolation
+Structure-property relationships of a biological mesocrystal in the adult sea urchin spine
+Sustained Frictional Instabilities on Nanodomed Surfaces: Stick-Slip Amplitude Coefficient
+Switching Pathways: Room-Temperature Neutral Solvolysis and Substitution of Amides
+Synthesis and Characterisation of the Persistent Radical [BCl2(bipy)]?
+Synthesis and Structural Characterisation of Stable Cationic Gold(I) Alkene Complexes
+Synthesis of charged particles in an ultra-low dielectric solvent
+Synthesis of Hetero-Polymer Functionalized Nanocarriers by Combining Surface-Initiated ATRP and RAFT Polymerization
+Taking Ockham's razor to enzyme dynamics and catalysis
+Tensor factorizations of local second-order M�?ller�Plesset theory
+Tetragonal and Helical Morphologies from Polyferrocenylsilane Block Polyelectrolytes via Ionic Self-Assembly
+The Basis for Carbapenem Hydrolysis by Class A ?-Lactamases: A Combined Investigation using Crystallography and Simulations.
+The effect of pre-coating human bone marrow stromal cells with hydroxyapatite/amino acid nanoconjugates on osteogenesis
+"The Interaction of Gold(I) Cations with 1
+The Programming Role of Trans-Acting Enoyl Reductases During the Biosynthesis of Highly Reduced Fungal Polyketides
+The Role of Large-Scale Motions in Catalysis by Dihydrofolate Reductase
+The transition from liquid to solid-like behaviour in ultrahigh viscosity aerosol particles
+Thermal Decomposition Modes for Four-Coordinate Ruthenium Phosphonium Alkylidene Olefin Metathesis Catalysts
+Three decades of global methane sources and sinks
+Total synthesis of the marine metabolite clavosolide D
+Toward a Single ZnO Nanowire Homojunction
+Transition-Metal-Free Diboration Reaction by Activation of Diboron Compounds with Simple Lewis Bases
+Tri-chain hydrocarbon surfactants as designed micellar modifiers for dense CO2
+Tropical sea temperatures in the high-latitude South Pacific during the Eocene
+Tuning Electrochemical Rectification via Quantum Dot Assemblies
+Tunnelling under a conical intersection: application to the product vibrational state distributions in the UV photodissociation of phenols
+Two-Photon-Activated Ligand Exchange in Platinum(II) Complexes
+Ultrafast energy flow in the wake of solution phase bimolecular reactions
+Ultra-Flexible Boron-Oxygen 3D Solid-State Networks
+Ultra-sensitive chemosensors for Fe(III) and explosives based on highly fluorescent oligofluoranthene
+Unraveling the role of protein dynamics in dihydrofolate reductase catalysis
+Unraveling Ultrafast Dynamics in Photoexcited Aniline
+Validating optical emission spectroscopy as a diagnostic of microwave activated CH4/Ar/H2 plasmas used for diamond chemical vapor deposition
+Vibrationally quantum-state-specific reaction dynamics of H atom abstraction by CN radical in solution
+"Vibrationally resolved dynamics of the reaction of Cl atoms with 2
+Water chains in hydrophobic crystal channels: nanoporous materials as supramolecular analogues of carbon nanotubes
+?-Selective organocatalytic synthesis of 2-deoxygalactosides
+A breakthrough method for the accurate addition of reagents in multi-step segmented flow processing
+A closer look at Arctic ozone loss and polar stratospheric clouds
+A cocrystal strategy to tune the luminescent properties of stilbene-type organic solid-state materials.
+A flow-based synthesis of imatinib: the API of Gleevec.
+A fragment-based approach to identifying ligands for riboswitches.
+A meta-selective copper-catalyzed C-H bond arylation.
+A quorum-sensing molecule acts as a morphogen controlling gas vesicle organelle biogenesis and adaptive flotation in an enterobacterium.
+A self-assembled M8L6 cubic cage that selectively encapsulates large aromatic guests.
+A simple approach to coordination compounds of the pentacyanocyclopentadienide anion.
+A spindle-like apparatus guides bacterial chromosome segregation.
+A strategy for the diversity-oriented synthesis of macrocyclic scaffolds using multidimensional coupling
+A study of electron affinities using the initiator approach to full configuration interaction quantum Monte Carlo
+A Traceless Vascular-Targeting Antibody�Drug Conjugate for Cancer Therapy
+A transient and low-populated protein-folding intermediate at atomic resolution.
+Aberrant attachment of heme to cytochrome by the Ccm system results in a cysteine persulfide linkage.
+Accurate whole human genome sequencing using reversible terminator chemistry.
+Aligning electronic energy levels at the TiO2/H2O interface
+"Amidocuprates for Directed ortho Cupration: Structural Study
+An Analytical Solution to the Kinetics of Breakable Filament Assembly
+An isoprene mechanism intercomparison
+An RNA hairpin to G-quadruplex conformational transition.
+An unlockable-relockable iron cage by subcomponent self-assembly.
+An upper limit for water dimer absorption in the 750 nm spectral region and a revised water line list
+Anti-MRSA agent discovery using diversity-oriented synthesis.
+"Apatite in kidney stones is a molecular composite with glycosaminoglycans and proteins: evidence from nuclear magnetic resonance spectroscopy
+Application of fragment growing and fragment linking to the discovery of inhibitors of Mycobacterium tuberculosis pantothenate synthetase.
+Applications of NMR crystallography to problems in biomineralization: refinement of the crystal structure and 31P solid-state NMR spectral assignment of octacalcium phosphate.
+Approaching chemical accuracy using full configuration-interaction quantum Monte Carlo: a study of ionization potentials.
+Aqueous Redox Chemistry and the Electronic Band Structure of Liquid Water
+Assembly of the first fullerene-type metal-organic frameworks using a planar five-fold coordination node
+Assigning stereochemistry to single diastereoisomers by GIAO NMR calculation: the DP4 probability.
+Breaking the Speed Limits of Phase-Change Memory
+Bromoform in the tropical boundary layer of the Maritime Continent during OP3
+Bulk and adsorbed monolayer phase behavior of binary mixtures of undecanoic acid and undecylamine: catanionic monolayers.
+Can Polymorphism be Used to form Branched Metal Nanostructures?
+Capillary microreactors wall-coated with mesoporous titania thin film catalyst supports
+Cascading transformations within a dynamic self-assembled system.
+Chaperone proteostasis in Parkinson's disease: stabilization of the Hsp70/alpha-synuclein complex by Hip.
+"Characterisation of PigC and HapC
+Characterization of the Conformational Equilibrium between the Two Major Substates of RNase A Using NMR Chemical Shifts.
+"Chemical name to structure: OPSIN
+Chemistry inside molecular containers in the gas phase.
+Collective ordering of colloids in grafted polymer layers
+Communications: Survival of the fittest: accelerating convergence in full configuration-interaction quantum Monte Carlo.
+Complexity and anisotropy in host morphology make populations less susceptible to epidemic outbreaks.
+Control and interconversion of cocrystal stoichiometry in grinding: stepwise mechanism for the formation of a hydrogen-bonded cocrystal
+Counterion-mediated electrostatic interactions between helical molecules
+Coupled linear and rotary motion in supramolecular helix handedness inversion
+Crown-ether- and porphyrin-attached gel-phase resins in thermodynamically controlled rotaxane assembly
+Cu(II)-catalyzed direct and site-selective arylation of indoles under mild conditions.
+Derivation of a true (t ? 0+) quantum transition-state theory. I. Uniqueness and equivalence to ring-polymer molecular dynamics transition-state-theory.
+Designing super selectivity in multivalent nano-particle binding.
+Detailed analysis of the energy barriers for amyloid fibril growth.
+Development and evaluation of new cyclooctynes for cell surface glycan imaging in cancer cells
+Direct characterization of amyloidogenic oligomers by single-molecule fluorescence.
+Direct observation of the interconversion of normal and toxic forms of ?-synuclein.
+Direct observation of ultrafast folding and denatured state dynamics in single protein molecules.
+Direct surface analysis of time-resolved aerosol impactor samples with ultrahigh-resolution mass spectrometry.
+Discontinuous Nature of the Exchange-Correlation Functional in Strongly Correlated Systems
+Discovery of a competitive apelin receptor (APJ) antagonist.
+Discovery of an Organic Trefoil Knot
+Diversity-oriented synthesis of macrocyclic peptidomimetics.
+Domain-Wall Spin Dynamics in Kagome Antiferromagnets
+Dynamic combinatorial synthesis of a catenane based on donor-acceptor interactions in water
+Dynamic nuclear polarization enhanced natural abundance 17O spectroscopy.
+Dynamics of the Antigen-binding Grooves in CD1 Proteins: REVERSIBLE HYDROPHOBIC COLLAPSE IN THE LIPID-FREE STATE.
+Effect of multiple group orientations on sum frequency generation spectra
+Effects of denaturants and osmolytes on proteins are accurately predicted by the molecular transfer model.
+Efficient and clean photoreduction of CO(2) to CO by enzyme-modified TiO(2) nanoparticles using visible light.
+"Emergent complexity from simple anisotropic building blocks: shells
+Enantioselective ?-arylation of N-acyloxazolidinones with copper(II)-bisoxazoline catalysts and diaryliodonium salts.
+Encoding multiple unnatural amino acids via evolution of a quadruplet-decoding ribosome.
+Engineered diubiquitin synthesis reveals Lys29-isopeptide specificity of an OTU deubiquitinase.
+Enzyme catalysis by hydrogen bonds: the balance between transition state binding and substrate binding in oxyanion holes.
+Epidemics in networks of spatially correlated three-dimensional root-branching structures.
+Evidence of an intermediate and parallel pathways in protein unfolding from single-molecule fluorescence
+Expanding the genetic code of an animal.
+Experimental detection of knotted conformations in denatured proteins
+Experimental evidence for a frustrated energy landscape in a three-helix-bundle protein family.
+Exploring isonitrile-based click chemistry for ligation with biomolecules.
+Exploring the Formation Pathways of Donor-Acceptor Catenanes in Aqueous Dynamic Combinatorial Libraries
+Facile conversion of cysteine and alkyl cysteines to dehydroalanine on protein surfaces: Versatile and switchable access to functionalized proteins
+FANCJ coordinates two pathways that maintain epigenetic stability at G-quadruplex DNA.
+Fast and accurate predictions of protein NMR chemical shifts from interatomic distances.
+"Fermion Monte Carlo without fixed nodes: A game of life
+Field-Induced Self-Assembly of Suspended Colloidal Membranes
+Fischer-tropsch mechanism revisited: Alternative pathways for the production of higher hydrocarbons from synthesis gas
+Fractional charge perspective on the band gap in density-functional theory
+From disulfide- to thioether-linked glycoproteins
+From microdroplets to microfluidics: selective emulsion separation in microfluidic devices.
+Full configuration interaction perspective on the homogeneous electron gas
+"Gas/particle partitioning of carbonyls in the photooxidation of isoprene and 1
+Genetically encoding N(epsilon)-acetyllysine in recombinant proteins.
+"Group 13 BN dehydrocoupling reagents
+Guest-Directed Assembly of Caffeine and Succinic Acid into Topologically Different Heteromolecular Host Networks upon Grinding
+Heterogeneity and dynamics in the assembly of the Heat Shock Protein 90 chaperone complexes
+Hole Localization and Thermochemistry of Oxidative Dehydrogenation of Aqueous Rutile TiO 2(110)
+Impacts of mechanistic changes on HOx formation and recycling in the oxidation of isoprene
+Improving Mechanical Properties of Crystalline Solids by Cocrystal Formation: New Compressible Forms of Paracetamol
+In situ NMR observation of the formation of metallic lithium microstructures in lithium batteries
+"In situ single-crystal diffraction studies of the structural transition of metal-organic framework copper 5-sulfoisophthalate
+Integrating high-content screening and ligand-target prediction to identify mechanism of action.
+Interfacial redox processes of cytochrome b(562)
+Intrinsic complexity of the melt-quenched amorphous Ge2Sb2Te5 memory alloy
+Intrinsic disorder modulates protein self-assembly and aggregation.
+Iodine-mediated coastal particle formation: an overview of the Reactive Halogens in the Marine Boundary Layer (RHaMBLe) Roscoff coastal study
+Ion- and liquid-assisted grinding: improved mechanochemical synthesis of metal-organic frameworks reveals salt inclusion and anion templating.
+Kinetic mechanism of p53 oncogenic mutant aggregation and its inhibition.
+Knot formation in newly translated proteins is spontaneous and accelerated by chaperonins.
+Ligand Effects in the Formation of Tertiary Carbanions from Substituted Tertiary Aromatic Amides
+Localization and delocalization errors in density functional theory and implications for band-gap prediction
+Localizing internal friction along the reaction coordinate of protein folding by combining ensemble and single-molecule fluorescence spectroscopy
+Locating Multiple Self-Consistent Field Solutions: An Approach Inspired by Metadynamics
+Mapping adverse drug reactions in chemical space.
+Measurement of amyloid fibril length distributions by inclusion of rotational motion in solution NMR diffusion measurements
+Mechanistic studies of hydrocarbon combustion and synthesis on noble metals.
+Mechanosynthesis of the metallodrug bismuth subsalicylate from Bi2O3 and structure of bismuth salicylate without auxiliary organic ligands.
+Metastability of native proteins and the phenomenon of amyloid formation.
+Mg/Al Ordering in Layered Double Hydroxides Revealed by Multinuclear NMR Spectroscopy
+Microscopic origin of the fast crystallization ability of Ge-Sb-Te phase-change memory materials.
+Mineral surface in calcified plaque is like that of bone: further evidence for regulated mineralization.
+Minor pseudopilin self-assembly primes type II secretion pseudopilus elongation
+Mixed Alkylamido Aluminate as a Kinetically Controlled Base
+Modelling reactive halogen formation and ozone depletion in volcanic plumes
+Molecular dynamics simulations of DNA within a nanopore: arginine-phosphate tethering and a binding/sliding mechanism for translocation.
+Nanomechanical detection of antibiotic mucopeptide binding in a model for superbug drug resistance
+Nanoparticulate copper--routes towards oxidative stability.
+Nanoscale live-cell imaging using hopping probe ion conductance microscopy
+Nanostructured films from hierarchical self-assembly of amyloidogenic proteins.
+New scenarios of protein folding can occur on the ribosome.
+Nitrogen management is essential to prevent tropical oil palm plantations from causing ground-level ozone pollution
+NMR of Biopolymer-Apatite Composites: Developing a Model of the Molecular Structure of the Mineral-Matrix Interface in Calcium Phosphate Biomaterials
+Noncovalent interactions in acid-porphyrin complexes
+Novel applications of ESEM and EDX for the study of molecularly thin amide monolayers on polymer films
+Nucleated polymerization with secondary pathways. I. Time evolution of the principal moments.
+Observation of a two-dimensional halogen-bonded cocrystal at sub-monolayer coverage using synchrotron X-ray diffraction.
+Observation of spatial propagation of amyloid assembly from single nuclei.
+One-pot synthesis of indene-expanded porphyrins.
+One-step fabrication of supramolecular microcapsules from microfluidic droplets.
+Origin of additional capacities in metal oxide lithium-ion battery electrodes
+Ozone trends at northern mid- and high latitudes - a European perspective
+Pair distribution function-derived mechanism of a single-crystal to disordered to single-crystal transformation in a hemilabile metal-organic framework
+Peptide nanofibrils boost retroviral gene transfer and provide a rapid means for concentrating viruses.
+Photoelectrochemical water oxidation with photosystem II integrated in a mesoporous indium-tin oxide electrode.
+Positive charge States and possible polymorphism of gold nanoclusters on reduced ceria.
+Predicting DNA-mediated colloidal pair interactions.
+Predicting intrinsic aqueous solubility by a thermodynamic cycle.
+Prediction of aggregation-prone regions in structured proteins.
+Prediction of variable translation rate effects on cotranslational protein folding.
+Proliferation of amyloid-?42 aggregates occurs through a secondary nucleation mechanism.
+Prospective validation of a comprehensive in silico hERG model and its applications to commercial compound and drug databases.
+Protein 3D Structure Computed from Evolutionary Sequence Variation
+Protein aggregation in crowded environments.
+Proton trapping in yttrium-doped barium zirconate
+Quantitative sequencing of 5-methylcytosine and 5-hydroxymethylcytosine at single-base resolution.
+Quantitative visualization of DNA G-quadruplex structures in human cells.
+Quantum influences in the diffusive motion of pyrrole on cu(111).
+Rational design of helical architectures
+Real-Time NMR Investigations of Structural Changes in Silicon Electrodes for Lithium-Ion Batteries
+Receptor-mediated endocytosis of nanoparticles of various shapes.
+Redox potentials and pKa for benzoquinone from density functional theory based molecular dynamics.
+Re-entrant melting as a design principle for DNA-coated colloids.
+Responses of lung cells to realistic exposure of primary and aged carbonaceous aerosols
+Revealing Noncovalent Interactions
+Ring-polymer instanton method for calculating tunneling splittings.
+Ring-polymer molecular dynamics rate-theory in the deep-tunneling regime: Connection with semiclassical instanton theory.
+Sea salt aerosol production and bromine release: Role of snow on sea ice
+Seemingly anomalous angular distributions in H + D? reactive scattering.
+Selective reduction of aqueous protons to hydrogen with a synthetic cobaloxime catalyst in the presence of atmospheric oxygen.
+"Sensor Array Composed of ""Clicked"" Individual Microcantilever Chips"
+Single-molecule fluorescence reveals sequence-specific misfolding in multidomain proteins
+Small-molecule-induced DNA damage identifies alternative DNA structures in human genes.
+Solubility challenge: can you predict solubilities of 32 molecules using a database of 100 reliable measurements?
+Spacer length shapes drug release and therapeutic efficacy of traceless disulfide-linked ADCs targeting the tumor neovasculature
+Stratospheric aerosol particles and solar-radiation management
+Strongly bound citrate stabilizes the apatite nanocrystals in bone
+Structure determination of protein-protein complexes using NMR chemical shifts: case of an endonuclease colicin-immunity protein complex.
+Structure of a Blinkin-BUBR1 complex reveals an interaction crucial for kinetochore-mitotic checkpoint regulation via an unanticipated binding Site.
+Structure of tumor suppressor p53 and its intrinsically disordered N-terminal transactivation domain.
+Structure-based prediction of methyl chemical shifts in proteins
+Sub-angstrom-resolution crystallography reveals physical distortions that enhance reactivity of a covalent enzymatic intermediate
+Sum Frequency Generation (SFG) Vibrational Spectroscopy of Planar Phosphatidylethanolamine Hybrid Bilayer Membranes under Water
+Sum Frequency Generation Spectrum of a Self-Assembled Monolayer Containing Two Different Methyl Group Orientations
+Super-resolution imaging of the nucleoid-associated protein HU in Caulobacter crescentus.
+Supramolecular block copolymers with cucurbit[8]uril in water.
+Supramolecular cross-linked networks via host-guest complexation with cucurbit[8]uril.
+Synergic Sedation of Sensitive Anions: Alkali-Mediated Zincation of Cyclic Ethers and Ethene
+Synergy in Spreading Processes: From Exploitative to Explorative Foraging Strategies
+Synthesis of a four-component [3]catenane using three distinct noncovalent interactions.
+Synthesis of rhazinicine by a metal-catalyzed C-H bond functionalization strategy.
+"Synthesis
+Taming the First-Row Diatomics: A Full Configuration Interaction Quantum Monte Carlo Study
+Task specific ionic liquids for the ionothermal synthesis of siliceous zeolites
+Template-assembled synthetic G-quadruplex (TASQ): a useful system for investigating the interactions of ligands with constrained quadruplex topologies.
+The CO2 inhibition of terrestrial isoprene emission significantly affects future ozone projections
+The effect of heterogeneity on invasion in spatial epidemics: from theory to experimental evidence in a model system.
+The folding pathway of a single domain in a multidomain protein is not affected by its neighbouring domain.
+The mineral phase of calcified cartilage: its molecular structure and interface with the organic matrix.
+The molecular basis for selective inhibition of unconventional mRNA splicing by an IRE1-binding small molecule
+The Morphology of Decorated Amyloid Fibers is Controlled by the Conformation and Position of the Displayed Protein.
+The organic-mineral interface in teeth is like that in bone and dominated by polysaccharides: Universal mediators of normal calcium phosphate biomineralization in vertebrates?
+The selenium-based hexameric macrocycle [(Se==)P(mu-NtBu)2P(mu-Se)]6.
+The Synthesis of Azadirachtin: A Potent Insect Antifeedant
+The T cell receptor triggering apparatus is composed of monovalent or monomeric proteins.
+The temperature response to stratospheric water vapour changes
+The use of a peptidic scaffold for the formation of stable guanine tetrads: control of a H-bonded pattern in water.
+"The use of electrochemical sensors for monitoring urban air quality in low-cost
+The world avoided by the Montreal Protocol
+Theoretical study of the mechanism of hantzsch ester hydrogenation of imines catalyzed by chiral BINOL-phosphoric acids.
+Thermodynamic investigation of the adsorption of amides on graphite from their liquids and binary mixtures.
+"Thermodynamics of Supramolecular Naphthalenediimide Nanotube Formation: The Influence of Solvents
+Three-Dimensional Structures of Membrane Proteins from Genomic Sequencing
+To Switch or Not To Switch: The Effects of Potassium and Sodium Ions on alpha-Poly-L-glutamate Conformations in Aqueous Solutions
+"Total synthesis of (-)-reidispongiolide A
+Total Synthesis of (-)-Rhizopodin
+Total synthesis of rapamycin.
+Total synthesis of spirastrellolide A methyl ester--part 1: Synthesis of an advanced C17-C40 bis-spiroacetal subunit.
+Total synthesis of spirastrellolide A methyl ester--part 2: Subunit union and completion of the synthesis.
+Towards an exact description of electronic wavefunctions in real solids
+Transient tertiary structure formation within the ribosome exit port.
+Transition metal complexes of the pentacyanocyclopentadienide anion.
+Transport of short-lived species into the Tropical Tropopause Layer
+Tuning the catalytic activity of L-proline functionalized hydrophobic nanogel particles in water
+Two Stage Magnetic Ordering and Spin Idle Behavior of the Coordination Polymer Co-3(OH)(2)(C4O4)(2)center dot 3H(2)O Determined Using Neutron Diffraction
+Ubiquitin chain conformation regulates recognition and activity of interacting proteins
+Virulence-associated substitution D222G in the hemagglutinin of 2009 pandemic influenza A(H1N1) virus affects receptor binding.
+Visible light-driven H(2) production by hydrogenases attached to dye-sensitized TiO(2) nanoparticles.
+Which compound to select in lead optimization? Prospectively validated proteochemometric models guide preclinical development.
+White phosphorus is air-stable within a self-assembled tetrahedral capsule.
+[{Fe(tim)}2]: An Fe-Fe Dimer Containing an Unsupported Metal�Metal Bond and Redox-Active N4 Macrocyclic Ligands
+�Multicopy Multivalent� Glycopolymer-Stabilized Gold Nanoparticles as Potential Synthetic Cancer Vaccines
+"2
+3-Hydroxypyridin-2-one Complexes of Near-Infrared (NIR) Emitting Lanthanides: Sensitization of Holmium(III) and Praseodymium(III) in Aqueous Solution
+A chiral probe for the acute phase proteins alpha-1-acid glycoprotein and alpha-1-antitrypsin based on europium luminescence
+A Combined Plasmachemical and Emulsion Templating Approach for Actuated Macroporous Scaffolds
+A convenient chemical-microbial method for developing fluorinated pharmaceuticals
+A cytosolic Ni(II) sensor in cyanobacterium: Nickel-detection follows nickel-affinity across four families of metal-sensors.
+A facile nonaqueous route for fabricating titania nanorods and their viability in quasi-solid-state dye-sensitized solar cells
+A flow-based synthesis of Imatinib: the API of Gleevec.
+A new pathway for the re-equilibration of micellar surfactant solutions.
+"A new route to the production and nanoscale patterning of highly smooth
+A simple classical model for predicting onset crystallization temperatures on curved substrates and its implications for phase transitions in confined volumes.
+"A Truly Multifunctional Heterocycle: Iminophosphorane
+Acyl Transfer from Membrane Lipids to Peptides Is a Generic Process
+Adsorption of CTAB on Hydrophilic Silica Studied by Linear and Nonlinear Optical Spectroscopy
+Alkylboronic Esters from Copper-Catalyzed Borylation of Primary and Secondary Alkyl Halides and Pseudohalides
+"Ambiphilic Diphosphine�Borane Ligands: Metal?Borane Interactions within Isoelectronic Complexes of Rhodium
+Ammonia oxide makes up some 20% of an aqueous solution of hydroxylamine
+"An organogel system can control the stereochemical course of anthracene
+1359-7345
+An ultracold high-density sample of rovibronic ground-state molecules in an optical lattice
+Anion-switchable supramolecular gels for controlling pharmaceutical crystal growth
+Asymmetric Direct Amide Synthesis by Kinetic Amine Resolution: A Chiral Bifunctional Aminoboronic Acid Catalyzed Reaction between a Racemic Amine and an Achiral Carboxylic Acid.
+Bridging M-Cl Bonds with Ambiphilic Phosphine�Borane Ligands
+Bulk superconductivity at 38K in a molecular system
+Catabolism of glutathione conjugates in Arabidopsis thaliana; role in metabolic reactivation of the herbicide safener fenclorim.
+"Chemically blockable transformation and
+1755-4330
+Chiral detection at a liquid�liquid interface
+Colossal Positive and Negative Thermal Expansion in the Framework Material Ag 3[Co(CN)6]
+Comparative electrochemical and impedance studies of self-assembled rigid-rod molecular wires and alkanethiols on gold substrates.
+Computational and Experimental Evidence of Through-Space NMR Spectroscopic J Coupling of Hydrogen Atoms.
+Controlling the Folding and Substrate-Binding of Proteins Using Polymer Brushes
+Crossing the Insulator-to-Metal Barrier with a Thiazyl Radical Conductor
+Crystallization of Deformable Spherical Colloids
+Definition of the uptake mechanism and sub-cellular localisation profile of emissive lanthanide complexes as cellular optical probes
+Degradable emulsion-templated scaffolds for tissue engineering from thiol� ene photopolymerisation
+Density Functional Theory for Baxter�s Sticky Hard Spheres in Confinement
+Density Scaling of Noninteracting Kinetic Energy Functionals
+Design Principles and Theory of Paramagnetic Fluorine-Labelled Lanthanide Complexes as Probes for 19F Magnetic Resonance: A Proof-of-Concept Study
+"Dipyrido[1
+Direct and selective tagging of cysteine residues in peptides and proteins with 4-nitropyridyl lanthanide complexes.
+Dynamical arrest in low density dipolar colloidal gels
+Efficient Catalytic Promiscuity in an Enzyme Superfamily: An Arylsulfatase Shows a Rate Acceleration of 1013 for Phosphate Monoester Hydrolysis
+Efficient Intramolecular Charge Transfer in Oligoyne-Linked Donor�?�Acceptor Molecules
+Electrical Conductance of Conjugated Oligomers at the Single Molecule Level
+Electron Paramagnetic Resonance Spectra Simulation Directly from Molecular Dynamics Trajectories of a Liquid Crystal with a Doped Paramagnetic Spin Probe
+Electron transport in supported and tethered lipid bilayers modified with bioelectroactive molecules.
+Electrospinning Superhydrophobic Fibers Using Surface Segregating End-Functionalized Polymer Additives
+"Elucidation of Structure and Dynamics in Solid Octafluoronaphthalene from Combined NMR
+Emissive Metallomesogens Based on 2-Phenylpyridine Complexes of Iridium(III)
+Evaluation of two cyclic di-peptides as inhibitors of CCL2 induced chemotaxis
+Excitation energies in density functional theory: An evaluation and a diagnostic test.
+Excited state surfaces in density functional theory: A new twist on an old problem.
+"Experimental and Theoretical Studies of the Photophysical Properties of 2- and 2
+Experimental and Theoretical Studies on Organic D-?-A Systems Containing Three-Coordinate Boron Moieties as both ?-Donor and ?-Acceptor
+Experimental Measurement and Theoretical Assessment of Fast Lanthanide Electronic Relaxation in Solution with Four Series of Isostructural Complexes
+Exploiting Non-Innocent Ligands to Prepare Masked Palladium(0) Complexes
+Femtosecond Photoelectron Imaging of Aligned Polyanions: Probing Molecular Dynamics through the Electron?Anion Coulomb Repulsion
+"Fluorescent Single-Walled Carbon Nanotubes Following the 1
+"Giant Deuteron Migration During the Isosymmetric Phase Transition in Deuterated 3
+Halogen-Bonding-Triggered Supramolecular Gel Formation
+"Highly Efficient
+"Highly Enantio- and Diastereoselective Synthesis of ?-Amino Alcohols from ?
+Highly ion-conducting poly(ionic liquid) layers
+Hydrated Electrons at the Water/Air Interface
+Hydroxylase Activity of Met471Cys Tyramine ?-Monooxygenase.
+HyperMacs to HyperBlocks: A Novel Class of Branched Thermoplastic Elastomer
+Identifying Diversity in Nanoscale Electrical Break Junctions
+"Identity of the Active Site in Gold Nanoparticle-Catalyzed Sonogashira
+0002-7863
+"In Silico Molecular Design
+Induced Fit Interanion Discrimination by Binding-Induced Excimer Formation
+Influence of Triplet Instabilities in TDDFT
+Isostructural Series of Nine-Coordinate Chiral Lanthanide Complexes Based on Triazacyclononane
+Key role for a glutathione transferase in multiple-herbicide resistance in grass weeds.
+Large effects of electric fields on atom-molecule collisions at millikelvin temperatures.
+Leapfrogging Ostwald�s Rule of Stages: Crystallization of Stable ?-Glycine Directly from Microemulsions.
+Liposome-doped hydrogel for implantable tissue
+"Local Structure
+Manipulating Charge-Transfer Character with Electron-Withdrawing Main-Group Moieties for the Color Tuning of Iridium Electrophosphors
+Measuring Equilibrium Bicarbonate Concentrations Directly in Cellular Mitochondria and in Human Serum Using Europium/Terbium Emission Intensity Ratios
+Mechanism and optimisation of the homoboroproline bifunctional catalytic asymmetric aldol reaction: Lewis acid tuning through in situ esterification
+Mechanistic insights into the triazolylidene-catalysed Stetter and benzoin reactions: role of the N-aryl substituent
+Modification of the chiral selectivity of D-glucose oxidase and L-lactate oxidase in a collagen matrix
+Modulation of Global Low-Frequency Motions Underlies Allosteric Regulation: Demonstration in CRP/FNR Family Transcription Factors
+Molecular Bridging of Silicon Nanogaps
+Molecular Order in a Chromonic Liquid Crystal: A Molecular Simulation Study of the Anionic Azo Dye Sunset Yellow
+Moving the goal posts: enhancing the sensitivity of PARASHIFT proton magnetic resonance imaging and spectroscopy.
+Multifunctional and Reactive Enantiopure Organometallic Helicenes: Tuning Chiroptical Properties by Structural Variations of Mono- and Bis(platinahelicene)s
+Multiple Microcapillary Reactor for Organic Synthesis.
+Multistep Synthesis Using Modular Flow Reactors: Bestmann�Ohira Reagent for the Formation of Alkynes and Triazoles.
+Nanofluidic networks created and controlled by light
+NMR characterisation of dynamics in solvates and desolvates of formoterol fumarate.
+Olex2
+Organogelation of Sheet�Helix Diblock Copolypeptides
+Palladium-Catalyzed C-F Activation of Polyfluoronitrobenzene Derivatives in Suzuki-Miyaura Coupling Reactions
+Peptide Adsorption to Lipid Bilayers: Slow Processes Revealed by Linear Dichroism Spectroscopy
+Phosphorescence vs Fluorescence in Cyclometalated Platinum(II) and Iridium(III) Complexes of (Oligo) thienylpyridines
+Photostop: production of zero-velocity molecules by photodissociation in a molecular beam.
+Polymorphism control of superconductivity and magnetism in Cs3C60 close to the Mott transition
+"Preparation and study of an f
+Pressure evolution of the low-temperature crystal structure and bonding of the superconductor FeSe (Tc=37 K)
+Pressure-Induced Cooperative Bond Rearrangement in a Zinc Imidazolate Framework: A High Pressure Single-Crystal X-Ray Diffraction Study
+Production of cold bromine atoms at zero mean velocity by photodissociation.
+Proton Transfer Reactions of Triazol-3-ylidenes: Kinetic Acidities and Carbon Acid pKa Values for Twenty Triazolium Salts in Aqueous Solution
+Pure Shift 1H NMR: A Resolution of the Resolution Problem?
+Pyridine-Functionalized Single-Walled Carbon Nanotubes as Gelators for Poly(acrylic acid) Hydrogels
+Remarkably High Oxide Ion Conductivity at Low Temperature in an Ordered Fluorite-Type Superstructure
+Responsive Imaging Probes for Metabotropic Glutamate Receptors.
+Reversible Immobilization onto PEG-based Emulsion-templated Porous Polymers by Co-assembly of Stimuli Responsive Polymers
+Reversible Interactions with para-Hydrogen Enhance NMR Sensitivity by Polarization Transfer.
+Rewritable Glycochips
+"Ruthenium complexes of C
+Sequential Continuous Flow Processes for the Oxidation of Amines and Azides using HOF.MeCN
+Silene equivalents through the rhodium-catalysed reactions of ?-hypersilyl diazoesters: a computational and experimental study
+Simple and scalable route for the 'bottom-up' synthesis of few-layer graphene platelets and thin films
+Simultaneous Bridge-Localized and Mixed-Valence Character in Diruthenium Radical Cations Featuring Diethynylaromatic Bridging Ligands
+"Size-Controlled Model Co Nanoparticle Catalysts for CO2 Hydrogenation: Synthesis
+Stable Polymorphs Crystallized Directly under Thermodynamic Control in Three-Dimensional Nanoconfinement: A Generic Methodology
+"Stereochemistry-Dependent
+0002-7863
+Stimulation of Mammalian G-protein-responsive Adenylyl Cyclases by Carbon Dioxide
+Structure Calculation of an Elastic Hydrogel from Sonication of Rigid Small Molecule Components
+Structures and Phase Transitions in (MoO2)2P2O7
+"Studies on the antileishmanial properties of the antimicrobial peptides temporin A
+Surface Features of a Mononegavirales Matrix Protein Indicate Sites of Membrane Interaction
+Surfactant Adsorption Kinetics by Total Internal Reflection Raman Spectroscopy. 2. CTAB and Triton X-100 Mixtures on Silica
+Synthesis and properties of MIDA boronate containing aromatic amino acids: New peptide building blocks
+Synthesis of thiophosphoramidates in water: Click chemistry for phosphates
+"Synthesis
+"Systematic and Controllable Negative
+Taking the green fluorescence out of the protein:dynamics of the isolated GFP chromophore anion
+The Active Site of a Carbohydrate Esterase Displays Divergent Catalytic and Noncatalytic Binding Functions
+The C-glycosylation of flavonoids in cereals
+The Disorder-Free Non-BCS Superconductor Cs3C60 Emerges from an Antiferromagnetic Insulator Parent State
+The long-chain dynamics in a model homopolymer blend under strong flow: small-angle neutron scattering and theory
+The molecular basis for selective inhibition of unconventional mRNA splicing by an IRE1-binding small molecule
+The superstructure determination of displacive distortions via symmetry-mode analysis
+The time domain in co-stained cell imaging: time-resolved emission imaging microscopy using a protonatable luminescent iridium complex
+The Uncatalyzed Direct Amide Formation Reaction � Mechanism Studies and the Key Role of Carboxylic Acid H-Bonding
+Theory and computer simulation for the cubatic phase of cut spheres
+"Thermo- and Solvent-Responsive Polymer Complex Created from Supramolecular Complexation between a Helix-Forming
+0002-7863
+Three-Dimensional Hierarchical Structures for Fog Harvesting
+Time-resolved and two-photon emission imaging microscopy of live cells with inert platinum complexes
+Toward real-time charged-particle image reconstruction using polar onion-peeling.
+"Transcription of Chirality in the Organogel Systems Dictates the
+0947-6539
+Tuning colourimetric indicator displacement assays for naked-eye sensing of pyrophosphate in aqueous media
+Two-photon induced responsive f�f emissive detection of Cyclin A with a europium-chelating peptide
+Ultracold RbSr Molecules Can Be Formed by Magnetoassociation
+Ultrafast above-threshold dynamics of the radical anion of a prototypical quinone electron-acceptor
+Unambiguous One-Molecule Conductance Measurements under Ambient Conditions
+Unexpected effects of third-order cross-terms in heteronuclear spin systems under simultaneous radio-frequency irradiation and magic-angle spinning NMR.
+Universality of the three-body parameter for Efimov states in ultracold cesium.
+Vibrational excitation through tug-of-war inelastic collisions.
+3-Aryl-3-(trifluoromethyl)diazirines as versatile photoactivated �Linker� molecules for the improved covalent modification of graphitic and carbon nanotube surfaces
+A general approach for prediction of motional EPR spectra from Molecular Dynamics (MD) simulations: Application to spin labelled protein
+"A thermally stable gold(III) hydride: Synthesis
+Allosteric ?-propeller signalling in TolB and its manipulation by translocating colicins
+An alternate proton acceptor for excited-state proton transfer in green fluorescent protein:� Rewiring GFP
+An alternative route to cyclic terpenes by reductive cyclization in iridoid biosynthesis
+Asymmetric epoxidation using iminium salt organocatalysts featuring dynamically controlled atropoisomerism
+Biochemical analysis of a multifunctional cytochrome P450 (CYP51) enzyme required for synthesis of antimicrobial triterpenes in plants
+Characterization of an electron conduit between bacteria and the extracellular environment
+Chirality and angular momentum in optical radiation
+Coiled-coil protein Scy is a key component of a multiprotein assembly controlling polarized growth in Streptomyces
+Crystal structure and biophysical properties of bacillus subtilis BdbD: An oxidiizing thiol:disulfide oxidoreductase containing a novel metal site
+Crystal structure of a mucus-binding protein repeat reveals an unexpected functional immunoglobulin binding activity
+Decoupling deprotonation from metalation: Thia-fries rearrangement
+"Diquat derivatives: Highly active
+Electron paramagnetic resonance spectra simulation directly from molecular dynamics trajectories of a liquid crystal with a doped paramagnetic spin probe
+Elucidating mechanisms in haem copper oxidases: The high-affinity Q? binding site in quinol oxidase as studied by DONUT-HYSCORE spectroscopy and density functional theory
+Enantioselective organocatalytic epoxidation driven by electrochemically generated percarbonate and persulfate
+Excitation energy transfer and low-efficiency photolytic splitting of water ice by vacuum UV light
+Expanded porphyrin-like structures based on twinned triphenylenes
+Formation and structures of hafnocene complexes in MAO- and AlBui ? / CPh?[B(C?F?)?]-Activated Systems
+Gold peroxide complexes and the conversion of hydroperoxides into gold hydrides by successive oxygen-transfer reactions
+Gold(III) olefin complexes
+Harnessing applied potential to oxidation in water
+"Highly enantioselective total synthesis of (?)-(3?S)-lomatin and (+)-(3?S
+Homoleptic permethylpentalene complexes: �Double Metallocenes� of the first-row transition metals
+Homolog of tocopherol C methyltransferases catalyzes N methylation in anticancer alkaloid biosynthesis
+Imaging of latent fingerprints through the detection of drugs and metabolites
+Influence of the environment on the [4Fe-4S]�? to [2Fe-2S]�? cluster switch in the transcriptional regulator FNR
+Integrating carbon�halogen bond formation into medicinal plant metabolism
+Interconversions of P and F intermediates of cytochrome c oxidase from Paracoccus denitrificans
+Localized intracellular pH measurement using a ratiometric photoinduced electron-transfer-based nanosensor
+Low-frequency modes of aqueous alkali halide solutions: Glimpsing the hydrogen bonding vibration
+Mechanistic insight into the nitrosylation of the [4Fe?4S] cluster of WhiB-like proteins
+"Mechanistic insights into Cu(I) cluster transfer between the chaperone CopZ and its cognate Cu(I)-transporting P-type ATPase
+Metabolic reprogramming of periwinkle plant culture
+Modular face-to-face assembly of multichromophore arrays that absorb across the complete UV?visible spectrum and into the near-IR
+NMR characterisation of the relationship between frustration and the excited state of Im7
+Optical binding in nanoparticle assembly: Potential energy landscapes
+Optical vortex generation from molecular chromophore arrays
+Paramagnetic bridging hydrides of relevance to catalytic hydrogen evolution at metallosulfur centers
+Photoexcitation of the blue light using FAD photoreceptor appA results in ultrafast changes to the protein matrix
+"Phthalocyanine analogues: Unexpectedly facile access to non-peripherally substituted Octaalkyl Tetrabenzotriazaporphyrins
+Prediction of EPR spectra of liquid crystals with doped spin probes from fully atomistic molecular dynamics simulations: Exploring molecular order and dynamics at the phase transition
+Probing a complex of cytochrome c and cardiolipin by magnetic circular dichroism spectroscopy: Implications for the initial events in apoptosis
+Probing columnar discotic liquid crystals by EPR spectroscopy with a rigid-core nitroxide spin probe
+Protein�protein interaction regulates the direction of catalysis and electron transfer in a redox enzyme complex
+Rapid electron exchange between surface-exposed bacterial cytochromes and Fe(III) minerals
+Refined distances between paramagnetic centers of a multi-copper nitrite reductase determined by pulsed EPR (iDEER) spectroscopy
+Reversible cycling between cysteine persulfide-ligated [2Fe-2S] and cysteine-ligated [4Fe-4S] clusters in the FNR regulatory protein
+Second harmonic generation in isotropic media: Six-wave mixing of optical vortices
+"Separating electrophilicity and Lewis acidity: The synthesis
+Spectroelectrochemical characterization of a pentaheme cytochrome in solution and as electrocatalytically active films on nanocrystalline metal-oxide electrodes
+Structural basis for iron mineralization by bacterioferritin
+Structure of a bacterial cell surface decaheme electron conduit
+Surface plasmon resonance imaging of glycoarrays identifies novel and unnatural carbohydrate-based ligands for potential ricin sensor development
+Synthesis of meso-substituted tetrabenzotriazaporphyrins: Easy access to hybrid macrocycles
+Targeting the oncofetal Thomsen�Friedenreich disaccharide using Jacalin-PEG phthalocyanine gold nanoparticles for photodynamic cancer therapy
+The O? sensitivity of the transcription factor FNR is controlled by Ser24 modulating the kinetics of [4Fe-4S] to [2Fe-2S] conversion
+The structural and energetic basis for high selectivity in a high-affinity protein-protein interaction
+The third hydrogenase: A ferracyclic carbamoyl with close structural analogy to the active site of hmd
+Ultrafast dynamics in the power stroke of a molecular rotary motor
+Unexpected weak magnetic exchange coupling between haem and non-haem iron in the catalytic site of nitric oxide reductase (NorBC) from Paracoccus denitrificans
+Unusual relaxation pathway from the two-photon excited first singlet state of carotenoids
+Water splitting by visible light: A nanophotocathode for hydrogen production
+11 �  tobermorite from cement bypass dust and waste container glass: A feasibility study
+A detailed investigation of the aza-Prins reaction
+A thermogravimetric method for assessing the substantivity of polymer films on dentally relevant substrates
+Ag+- and Zn2+-exchange kinetics and antimicrobial properties of 11 � tobermorites
+An absolute structure template for a unique voltage-gated sodium channel binding site
+Aspects of the in vitro bioactivity and antimicrobial properties of Ag+- and Zn2+-exchanged 11 � tobermorites
+Aspects of the in vitro bioactivity of hydraulic calcium (alumino)silicate cement
+Assignment of the vibrational spectra of enzyme-bound tryptophan tryptophyl quinones using a combined QM/MM approach
+Barrier compression enhances an enzymatic hydrogen-transfer reaction
+Can density functional theory (DFT) be used as an aid to a deeper understanding of tandem mass spectrometric fragmentation pathways?
+Can ion mobility mass spectrometry and density functional theory help elucidate protonation sites in 'small' molecules?
+"Central nervous system drugs: Low temperature X-ray structures of (I) the base 5-(2
+"C-H activations on a 1H-1
+Characterization of carbonated tricalcium silicate and its sorption capacity for heavy metals: A micron-scale composite adsorbent of active silicate gel and calcite
+Characterization of chitin-metal silicates as binding superdisintegrants
+Charge carrier dynamics on mesoporous WO3 during water splitting
+Chemically programmed self-sorting of gelator networks
+Colloidal microgel in removal of water from biodiesel
+Cyclic triazo and diazo sodium channel blockers
+Deep tunneling dominates the biologically important hydride transfer reaction from NADH to FMN in morphinone reductase
+"Donor cyclopropanes in synthesis: utilising silylmethylcyclopropanes to prepare 2
+Drug-polymer intermolecular interactions in hot-melt extruded solid dispersions
+"Effect of capping groups at the N- and C-termini on the conformational preference of ?
+Essential and trace elements content of commercial infant foods in the UK
+Influence of lipophilicity on drug-cyclodextrin interactions: A calorimetric study
+Investigation of 4-year-old stabilised/solidified and accelerated carbonated contaminated soil
+Investigation of the potential of the dissolution dynamic nuclear polarization method for general sensitivity enhancement in small-molecule NMR spectroscopy
+"Large-scale domain conformational change is coupled to the activation of the Co�C bond in the B12-dependent enzyme ornithine 4
+"Light-fluorous TEMPO: reagent
+Locus-specific microemulsion catalysts for sulfur mustard (HD) chemical warfare agent decontamination
+Multifunctional poly(alkyl methacrylate) films for dental care
+New medical use of triazine derivatives
+Novel analytical approaches for the study of mobility and relaxation phenomena in positional isomers of GABA
+Novel inclusion complex of ibuprofen tromethamine with cyclodextrins: Physico-chemical characterization
+On the choice of Lewis acids for the Prins reaction; two total syntheses of (�)-Civet
+Peptide polarity and the position of arginine as sources of selectivity during positive electrospray ionisation mass spectrometry
+PGSE-NMR and SANS studies of the interaction of model polymer therapeutics with mucin
+Pharmacometabonomic characterization of xenobiotic and endogenous metabolic phenotypes that account for inter-individual variation in isoniazid-induced toxicological response
+Pharmacometabonomic identification of a significant host-microbiome metabolic interaction affecting human drug metabolism
+Physicochemical characterization of thermoresponsive poly(N-isopropylacrylamide)-poly(ethylene imine) graft copolymers
+Plate-based diversity subset screening: an efficient paradigm for high throughput screening of a large screening file
+"Practical considerations in analysing neuropeptides
+Practical solvent system selection for counter-current separation of pharmaceutical compounds
+Production of lightweight aggregate from industrial waste and carbon dioxide
+Shaping a screening file for maximal lead discovery efficiency and effectiveness: Elimination of molecular redundancy
+"Structural and biological investigation of ferrocene-substituted 3-methylidene-1
+Surface-enhanced Raman scattering studies of rhodanines: Evidence for substrate surface-induced dimerization
+Surfactant and temperature effects on paraben transport through silicone membranes
+Synergy between surface adsorption and photocatalysis during degradation of humic acid on TiO2/activated carbon composites
+Synthesis and properties of polyelectrolyte microgel particles
+Tailoring the morphology of WO3 films with substitutional cation doping: Effect on the photoelectrochemical properties
+Taste masking of paracetamol by hot-melt extrusion: An in vitro and in vivo evaluation
+Time dependence of SERS enhancement for pyrimidine nucleosides
+Using density functional theory to rationalise the mass spectral fragmentation of maraviroc and its metabolites
+Vibrational spectra and crystal structure of the di-amino acid peptide cyclo(L-Met-L-Met): Comparison of experimental data and DFT calculations
+Vibrational spectra of ?-amino acids in the zwitterionic state in aqueous solution and the solid state: DFT calculations and the influence of hydrogen bonding
+Vibrational spectroscopic studies of the structure of di-amino acid peptides. Part II: cyclo(L-Asp-L-Asp) in the solid state and in aqueous solution
+Vibrational spectroscopy and crystal structure analysis of two polymorphs of the di-amino acid peptide cyclo(L-Glu-L-Glu)
+Vibrational spectroscopy and DFT calculations of the di-amino acid peptide L-aspartyl-L-glutamic acid in the zwitterionic state
+"1
+A molecular dynamics study of the thermal properties of thorium oxide
+A photoelectron diffraction investigation of vanadyl phthalocyanine on Au(111)
+A Robust First-Pass Protocol for the Heck�Mizoroki Reaction
+A wavelength and lifetime responsive cryptate-containing fluorescent probe for zinc ions in water
+"Azetidine-2
+Benzopentalenonaphthalenones from the intramolecular capture of a merocyanine derived from a naphthopyran
+Bidentates versus Monodentates in Asymmetric Hydrogenation Catalysis: Synergic Effects on Rate and Allosteric Effects on Enantioselectivity
+Binding of Ethanol on Calcite: The Role of the OH Bond and Its Relevance to Biomineralization
+Catalytic Synthesis of Riboside-Amino Acid Hybrids
+Controlling the formation of metallosupramolecular assemblies by metal ionic radii
+Copper(I)-Catalyzed Amination of Aryl Halides in Liquid Ammonia
+Cs exchanged phosphotungstic acid as an efficient catalyst for liquid-phase Beckmann rearrangement of oximes
+Decoupling Deprotonation from Metalation: Thia-Fries Rearrangement
+E- and Z-Stereoselectivity in the preparation of enamides from glycidyl sulfonamides and carbamates
+Enhanced Photocatalytic Hydrogen Generation Using Polymorphic Macroporous TaON
+Flexible access to conformationally-locked bicyclic morpholines
+Head-To-Tail and Heteroleptic Pentanuclear Circular Helicates
+Hydrogen Bonding and Electron Transfer between Dimetal Paddlewheel Compounds Containing Pendant 2-Pyridone Functional Groups
+Hypoiodous acid initiated rearrangement of tertiary propargylic alcohols to ?-iodoenones
+"Influence of octahedral tilting on the microwave dielectric properties of A3LaNb3O12 hexagonal perovskites (A=Ba
+Interaction of Ethanol and Water with the {104} Surface of Calcite
+"Intramolecular 1
+Intrinsically thermochromic fluorans
+Iodobenzene-Catalyzed Intramolecular Oxidative Cyclization Reactions of ?-Alkynyl ?-Ketoesters
+Liquid Ammonia as a Dipolar Aprotic Solvent for Aliphatic Nucleophilic Substitution Reactions
+Loss of enzyme activity during turnover of the Bacillus cereus ?-lactamase catalysed hydrolysis of ?-lactams due to loss of zinc ion
+"Luminescent biscyclometalated arylpyridine iridium(III) complexes with 4
+Mesoporous Silica with Site-Isolated Amine and Phosphotungstic Acid Groups: A Solid Catalyst with Tunable Antagonistic Functions for One-Pot Tandem Reactions
+Mixed Valency in Hydrogen Bonded �Dimers of Dimers�
+Mixed-Ligand Molecular Paneling: Dodecanuclear Cuboctahedral Coordination Cages Based on a Combination of Edge-Bridging and Face-Capping Ligands
+New polystyrene sulfonic acid resin catalysts with enhanced acidic and catalytic properties
+Octanuclear Cubic Coordination Cages
+Oxadiazole isomers: all bioisosteres are not created equal
+Oxalate Bridged Triangles Incorporating Mo2(4+) Units. Electronic Structure and Bonding
+Oxygen Defects and Novel Transport Mechanisms in Apatite Ionic Conductors: Combined 17O NMR and Modeling Studies
+Oxygen Vacancy Ordering in the Double-layered Ruddlesden?Popper Cobaltite Sm2BaCo2O(7??)
+Palladium-catalysed direct alkenylation of sydnones
+"Palladium-Catalyzed Three-Component Coupling Reactions: 1
+Pyridines from azabicyclo[3.2.0]hept-2-en-4-ones through a proposed azacyclopentadienone
+Reversible Interactions with para-Hydrogen Enhance NMR Sensitivity by Polarization Transfer
+Ring contraction during the 6?-electrocyclisation of naphthopyran valence tautomers
+Role of Benzyl Alcohol in Controlling the Growth of TiO2 on Carbon Nanotubes
+Self-Assembly of a 3-D Triply Interlocked Chiral [2]Catenane
+Stellated polyhedral assembly of a topologically complicated Pd4L4 �Solomon cube�
+Stereocontrolled access to optically-enriched oxabispidines
+Steric control of the formation of dinuclear double helicate and dinuclear meso-helicate assemblies
+"Structural
+"Synthesis and characterisation of luminescent rhenium tricarbonyl complexes with axially coordinated 1
+"Synthesis
+"Synthesis
+Tailoring the Nature of Magnetic Coupling of Fe-Porphyrin Molecules to Ferromagnetic Substrates
+The adsorption structure of furan on Pd(111)
+"The influence of a 1
+The Kinetics and Mechanisms of Aromatic Nucleophilic Substitution Reactions in Liquid Ammonia
+The lithium intercalation process in the low-voltage lithium battery anode L(i1+x)V(1?x)O2
+The local adsorption structure of benzene on Si(001)-(2 � 1): a photoelectron diffraction investigation
+The local structure of OH species on the V2O3(0001) surface: A scanned-energy mode photoelectron diffraction study
+"The synthesis of hydroxy-pyrrolizidines and indolizidines from cyclopropenones: towards hyacinthacines
+Tungstated Zirconia Catalysts for Liquid-Phase Beckmann Rearrangement of Cyclohexanone Oxime: Structure-Activity Relationship
+Unambiguous Characterization of a Photoreactive Ligand-Loss Intermediate
+Unusual stability and carbon acidity of a dicationic carbon species
+3D ordered gold strings by coating nanoparticles with mesogens
+A chemically modified antibody mediates complete eradication of tumours by selective disruption of tumour blood vessels
+A new approach to photoalignment: photo-addition to a self-assembled monolayer
+A prototype microfluidic chip using fluorescent yeast for detection of toxic compounds
+"Adsorption of Sterically Stabilized Latex Particles at Liquid Surfaces: Effects of Steric Stabilizer Surface Coverage
+An investigation of the high temperature reaction between the apatite oxide ion conductor La<sub>9.33</sub>Si<sub>6</sub>O<sub>26</sub> and NH<sub>3</sub>
+An Optical Nanocavity Incorporating a Fluorescent Organic Dye Having a High Quality Factor
+Anionic Amphiphilic End-Linked Conetworks by the Combination of Quasiliving Carbocationic and Group Transfer Polymerizations
+Binding Optimization through Coordination Chemistry: CXCR4 Chemokine Receptor Antagonists from Ultrarigid Metal Complexes
+Cell sorting by endocytotic capacity in a microfluidic magnetophoresis device
+Cellular uptake of a fluorescent calix[4]arene derivative
+Challenges in chelating positron emitting copper isotopes: tailored synthesis of unsymmetric chelators to form ultra stable complexes
+Characterisation of Schiff base and chromophore in green proteorhodopsin by solid-state NMR
+Characterization of cellular chemical dynamics using combined microfluidic and Raman techniques
+Charge modified cowpea mosaic virus particles for templated mineralization
+Cholesterol and lipid phases influence the interactions between serotonin receptor agonists and lipid bilayers
+Compartmentalization and Separation of Aqueous Reagents in the Water Droplets of Water-in-Oil High Internal Phase Emulsions
+"Controlled Silanization of Silica Nanoparticles to Stabilize Foams
+Controlling a spillover pathway with the molecular cork effect
+CPMV-DOX delivers
+CXCR4 chemokine receptor antagonists: nickel(II) complexes of configurationally restricted macrocycles
+Design and evaluation of synthetic silica-based monolithic materials in shrinkable tube for efficient protein extraction
+"Design
+Detection of nitric oxide in tissue samples by ESI-MS
+Development of a bi-functional silica monolith for electro-osmotic pumping and DNA clean-up/extraction using gel-supported reagents in a microfluidic device
+Development of a microfluidic device for the maintenance and interrogation of viable tissue biopsies
+Development of a real-world direct interface for integrated DNA extraction and amplification in a microfluidic device
+Development of enzyme immobilized monolith micro-reactors integrated with microfluidic electrochemical cell for the evaluation of enzyme kinetics
+Diamagnetic repulsion-a versatile tool for label-free particle handling in microfluidic devices
+Dynamic Nuclear Polarization-Enhanced Solid-State NMR of a C-13-Labeled Signal Peptide Bound to Lipid-Reconstituted Sec Translocon
+"Early transition metal complexes bearing a C-capped tris(phenolate) ligand incorporating a pendant imine arm: Synthesis
+Electrochemical Determination of Diffusion Anisotropy in Molecularly-Structured Materials
+Electrogenerated chemiluminescence at droplet-modified electrodes: towards biphasic pKa measurement via proton-coupled electron transfer at liquid|liquid interfaces
+Electronic transport in conducting polymer nanowire array devices
+Electrostatically gated membrane permeability in inorganic protocells
+Empowering the smart grid: can redox batteries be matched to renewable energy systems for energy storage?
+Fabrication of living cellosomes of rod-like and rhombohedral morphologies based on magnetically responsive templates
+Fabrication of novel anisotropic magnetic microparticles
+Fast vibrational calculation of anharmonic OH-stretch frequencies for two low-energy noradrenaline conformers
+Grazing Incidence X-ray Diffraction of a Photoaligned Nematic Semiconductor
+Helimeric Porphyrinoids: Stereostructure and Chiral Resolution of meso-Tetraarylmorpholinochlorins
+Heteronanojunctions with atomic size control using a lab-on-chip electrochemical approach with integrated microfluidics
+"Highly active
+Highly Permeable Macroporous Polymers Synthesized from Pickering Medium and High Internal Phase Emulsion Templates
+How membrane permeation is affected by donor delivery solvent
+Identity of the Active Site in Gold Nanoparticle-Catalyzed Sonogashira Coupling of Phenylacetylene and Iodobenzene
+In Situ Characterization of Elusive Salt Hydrates-The Crystal Structures of the Heptahydrate and Octahydrate of Sodium Sulfate
+Increase in magnetoresistivity in Ba<sub>2</sub>CoS<sub>3</sub> via Zn<sup>2+</sup>/Co<sup>2+</sup> substitution
+Influence of the degree of fluorination on the behaviour of silica particles at air�oil surfaces
+"Iron(III) and Zinc(II) Calixarene Complexes: Synthesis
+Isolated Metal Atom Geometries as a Strategy for Selective Heterogeneous Hydrogenations
+Iterative active-space selection for vibrational configuration interaction calculations using a reduced-coupling VSCF basis
+Liquid viruses by nanoscale engineering of capsid surfaces.
+Location and orientation of serotonin receptor 1a agonists in model and complex lipid membranes
+Microfluidic perfusion system for maintaining viable heart tissue with real-time electrochemical monitoring of reactive oxygen species
+Mobile magnetic particles as solid-supports for rapid surface-based bioanalysis in continuous flow
+MRI contrast agent delivery using spore capsules: controlled release in blood plasma
+Multicompartment thermoresponsive gels: does the length of the hydrophobic side group matter?
+Nanotrench for nano and microparticle electrical interconnects
+Nematic twist-bend phase with nanoscale modulation of molecular orientation
+Novel film-calliper method of measuring the contact angle of colloidal particles at liquid interfaces
+Novel inorganic polymer derived microreactors for organic microchemistry applications
+Observation and Isolation of Layered and Framework Ytterbium Hydroxide Phases Using In Situ Energy-Dispersive X-ray Diffraction
+One-Step Photoembossing for Submicrometer Surface Relief Structures in Liquid Crystal Semiconductors
+Optical nanolithography using a scanning near-field probe with an integrated light source
+Optical Properties of Light-Emitting Nematic Liquid Crystals: A Joint Experimental and Theoretical Study
+Origin of stabilisation of aqueous foams in nanoparticle-surfactant mixtures
+Orthogonally bifunctionalised polyacrylamide nanoparticles: a support for the assembly of multifunctional nanodevices
+Particle Stabilization of Oil-in-Water-in-Air Materials: Powdered Emulsions
+Photogalvanic cells based on lyotropic nanosystems: towards the use of liquid nanotechnology for personalised energy sources
+"Photopatterning
+Photothermal colloid antibodies for shape-selective recognition and killing of microorganisms
+Polyacrylamide Nanoparticles as a Delivery System in Photodynamic Therapy
+"Precise chemical
+Preconcentration of milk proteins using octadecylated monolithic silica microchip
+Proteomic analysis of B-cell receptor signaling in chronic lymphocytic leukaemia reveals a possible role for kininogen
+Radiochemistry on chip: Towards dose-on-demand synthesis of PET radiopharmaceuticals
+Shape recognition of microbial cells by colloidal cell imprints
+Sonogashira Coupling on an Extended Gold Surface in Vacuo: Reaction of Phenylacetylene with Iodobenzene on Au(111)
+Spontaneous periodic deformations in nonchiral planar-aligned bimesogens with a nematic-nematic transition and a negative elastic constant
+Synthesis and antibacterial effects of aqueous colloidal solutions of silver nanoparticles using aminocellulose as a combined reducing and capping reagent
+Synthesis and characterisation of the quaternary nitride-fluoride Ce<sub>2</sub>2MnN<sub>3</sub>F<sub>2-?</sub>
+"Synthesis and Crystal Structures of New Lanthanide Hydroxyhalide Anion Exchange Materials
+The influence of the nematic phase on the phase separation of blended organic semiconductors for photovoltaics
+The structure of the melamine-cyanuric acid co-crystal
+Thermoresponsive triblock copolymers based on methacrylate monomers: Effect of molecular weight and composition
+Two-Dimensional Colloidal Alloys
+Using High Pressure to Prepare Polymorphs of the Ba<sub>2</sub>Co<sub>1-x</sub>Zn<sub>x</sub>S<sub>3</sub> (0&le; x &le; 1.0) Compounds
+UV Polymerisation of Surfactants Adsorbed at the Nematic Liquid Crystal-Water Interface Produces an Optical Response
+Vibrationally assisted polariton-relaxation processes in strongly coupled organic-semiconductor microcavities
+Vibrations of a single adsorbed organic molecule: anharmonicity matters!
+Virus-templated silica nanoparticles
+White-light OLEDs using liquid crystal polymer networks
+"Whiter
+[(NHC)(2)Cu]X Complexes as Efficient Catalysts for Azide-Alkyne Click Chemistry at Low Catalyst Loadings
+[11C]Carbon Disulfide: A Versatile Reagent for PET Radiolabelling
+A [(NHC)CuCl] complex as a latent Click catalyst
+A 3-D hexagonal inverse micellar lyotropic phase.
+A Coherent Mechanistic Rationale for Additive Effects and Autoinductive Behaviour in Proline-Mediated Reactions
+A computational modeling approach for enhancing self-assembly and biofunctionalisation of collagen biomimetic peptides.
+A cyclometallated platinum complex as a selective optical switch for quadruplex DNA.
+A first step towards practical single cell proteomics: a microfluidic antibody capture chip with TIRF detection
+A Hybrid Inorganic-Organic Semiconductor Light-Emitting Diode Using ZrO(2) as an Electron-Injection Layer
+A lyotropic inverse ribbon phase in a branched-chain polyoxyethylene surfactant: pressure effects
+"A metal-amide dependent
+A method for parallel solid-phase synthesis of iodinated analogues of the CB1 receptor inverse agonist rimonabant.
+A microdroplet dilutor for high-throughput screening
+A Microfluidic Approach to the Rapid Screening of Palladium-Catalysed Aminocarbonylation Reactions
+A microfluidic platform for probing single cell plasma membranes using optically trapped Smart Droplet Microtools (SDMs)
+A novel type of cellular senescence that can be enhanced in mouse models and human tumor xenografts to suppress prostate tumorigenesis.
+A pressure-jump time-resolved x-ray diffraction study of cubic-cubic transition kinetics in monoolein
+A Pyrophosphate-Responsive Gadolinium(III) MRI Contrast Agent
+A quantitative structure-reactivity relationship in decarboxylative Claisen rearrangement reactions of allylic tosylmalonate esters
+A rationalization of the solvent effect on the Diels-Alder reaction in ionic liquids using multiparameter linear solvation energy relationships
+A Scalable and Expedient Route to 1-Aza[6]helicene Derivatives and Its Subsequent Application to a Chiral-Relay Asymmetric Strategy
+A selenophene-based low-bandgap donor-acceptor polymer leading to fast ambipolar logic.
+A simple method for controlled immobilization of proteins on modified SAMs.
+"A Small Molecule Mimicking a Phosphatidylinositol (4
+A tricyclic aromatic isomer of hexasilabenzene.
+A two-step mechanism for the folding of actin by the yeast cytosolic chaperonin.
+A Unifying Stereochemical Analysis for the Formation of Halogenated C(15)-Acetogenin Medium-Ring Ethers From Laurencia Species via Intramolecular Bromonium Ion Assisted Epoxide Ring-Opening and Experimental Corroboration with a Model Epoxide.
+"A versatile
+Ab initio calculation of the MgO(100) interaction with He and Ne: a HF + MP2 and HF + MP2(B3LYP) comparison.
+Air-Stable and High-Mobility n-Channel Organic Transistors Based on Small-Molecule/Polymer Semiconducting Blends
+An organosilicon hexacarboxylic acid and its use in the construction of a novel metal organic framework isoreticular to MOF-5
+Arginine52 controls the photoisomerization process in photoactive yellow protein.
+"Assessment of Standard Force Field Models Against High-Quality Ab Initio Potential Curves for Prototypes of pi-pi
+Aziridine-based Concise Synthesis of (�)-Alstonerine
+Bimolecular Crystals of Fullerenes in Conjugated Polymers and the Implications of Molecular Mixing for Solar Cells
+Biomimetic synthesis of resorcylate natural products utilizing late stage aromatization: concise total syntheses of the marine antifungal agents 15G256iota and 15G256beta.
+Biomimetic total synthesis of cruentaren A via aromatization of diketodioxinones.
+Biophysical regulation of lipid biosynthesis in the plasma membrane.
+Blood-vessel closure using photosensitizers engineered for two-photon excitation
+Bromonium Ion Induced Transannular Oxonium Ion Formation-Fragmentation in Model Obtusallene Systems and Structural Reassignment of Obtusallenes V-VII
+"Can 1
+Carbodeoxygenation of Biomass: The Carbonylation of Glycerol and Higher Polyols to Monocarboxylic Acids
+Catalysis in flow: Au-catalysed alkylation of amines by alcohols
+Catalysis in flow: the practical and selective aerobic oxidation of alcohols to aldehydes and ketones
+Catalysis of recombination and its limitation on open circuit voltage for dye sensitized photovoltaic cells using phthalocyanine dyes
+Catalyst stability determines the catalytic activity of non-heme iron catalysts in the oxidation of alkanes
+Catalytic enantioselective cross-couplings of secondary alkyl electrophiles with secondary alkylmetal nucleophiles: Negishi reactions of racemic benzylic bromides with achiral alkylzinc reagents.
+Cathode development for alkaline fuel cells based on a porous silver membrane
+Charge carrier formation in polythiophene/fullerene blend films studied by transient absorption spectroscopy
+Charge screening in the S(N)2 reaction of charged electrophiles and charged nucleophiles: an ionic liquid effect.
+Charge-density-based analysis of the current-voltage response of polythiophene/fullerene photovoltaic devices.
+Chemical and biomimetic total syntheses of natural and engineered MCoTI cyclotides.
+Chemical probes of surface layer biogenesis in Clostridium difficile.
+Circularly polarized light detection by a chiral organic semiconductor transistor
+"Cobalt-Mediated
+Comparing experimental and computational alanine scanning techniques for probing a prototypical protein-protein interaction.
+Constrained beta-Proline Analogues in Organocatalytic Aldol Reactions: The Influence of Acid Geometry
+Continuous Synthesis of Device-Grade Semiconducting Polymers in Droplet-Based Microreactors
+Controlling the mechanism of fulvene S(1)/S(0) decay: switching off the stepwise population transfer.
+Copper(I) scorpionate complexes and their application in palladium-mediated [(11)C]carbonylation reactions
+Copper-Catalyzed Direct Alkenylation of N-Iminopyridinium Ylides
+Cyanide sensing with organic dyes: Studies in solution and on nanostructured Al(2)O(3) surfaces
+"Delineating origins of stereocontrol in asymmetric Pd-catalyzed alpha-hydroxylation of 1
+Detection of complex formation and determination of intermolecular geometry through electrical anharmonic coupling of molecular vibrations using electron-vibration-vibration two-dimensional infrared spectroscopy.
+Dipodal ferrocene-based adsorbate molecules for self-assembled monolayers on gold
+Direct growth of metal sulfide nanoparticle networks in solid-state polymer films for hybrid inorganic-organic solar cells.
+"Distinguishing Chain Growth Mechanisms in Metal-catalyzed Olefin Oligomerization and Polymerization Systems: C2H4/C2D4 Co-oligomerization/Polymerization Experiments Using Chromium
+DNA tunneling detector embedded in a nanopore.
+Double Layer in Ionic Liquids: Overscreening versus Crowding
+Dynamics of paramagnetic metallofullerenes in carbon nanotube peapods
+Efficient magnesium catalysts for the copolymerization of epoxides and CO2; using water to synthesize polycarbonate polyols.
+Efficient organic solar cells with solution-processed silver nanowire electrodes.
+Electrocatalytic performance of fuel cell reactions at low catalyst loading and high mass transport.
+"Enantioselective synthesis of allenamides via sulfimide [2
+Engineering bicontinuous cubic structures at the nanoscale-the role of chain splay
+Engineering de Novo Membrane-Mediated Protein-Protein Communication Networks
+Enhanced fluid flow through nanoscale carbon pipes
+Esterification in ionic liquids: The influence of solvent basicity
+Evidence that phosphatidylinositol promotes curved membrane interfaces.
+Facile synthesis of bis(dichalcogenophosphinate)s and a remarkable [Li8(OH)6]2+ polyhedron.
+Field-dependent carrier generation in bulk heterojunction solar cells
+First-principles optical response of semiconductors and oxide materials
+"Fluorescence of the perylene radical cation and an inaccessible D(0)/D(1) conical intersection: An MMVB
+"Fluoride-containing bioactive glasses: effect of glass design and structure on degradation
+Four-component benzyne coupling reactions: a concise total synthesis of dehydroaltenuene B.
+Functionalized Organocuprates: Structures of Lithium and Magnesium Grignard 2-Methoxyphenylcuprates
+Fused Dithienogermolodithiophene Low Band Gap Polymers for High-Performance Organic Solar Cells without Processing Additives
+Gd3+ cFLFLFK conjugate for MRI: a targeted contrast agent for FPR1 in inflammation.
+Giant cationic polyelectrolytes generated via electrochemical oxidation of single-walled carbon nanotubes.
+Gold(III) Complexes Catalyze Deoximations/Transoximations at Neutral pH
+Heat transfer in protein-water interfaces.
+Highly active dizinc catalyst for the copolymerization of carbon dioxide and cyclohexene oxide at one atmosphere pressure.
+Highly cis-selective synthesis of iodo-aziridines using diiodomethyllithium and in situ generated N-Boc-imines
+Highly regioselective ring-opening of trisubstituted aziridines by sulfur-stabilised carbanions
+"Homoleptic Permethylpentalene Complexes: ""Double Metallocenes"" of the First-Row Transition Metals"
+How the Conical Intersection Seam Controls Chemical Selectivity in the Photocycloaddition of Ethylene and Benzene
+How to Understand and Interpret Current Flow in Nanopore/Electrode Devices
+Hydrogen abstraction from n-butanol by the methyl radical: high level ab initio study of abstraction pathways and the importance of low energy rotational conformers
+Hydrogen bonding controls excited-state decay of the photoactive yellow protein chromophore.
+Hydrogen Bonding in 1-Butyl- and 1-Ethyl-3-methylimidazolium Chloride Ionic Liquids
+Hydrostatic pressure effects on a hydrated lipid inverse micellar Fd3m cubic phase.
+"Identification of cyclin A2 as the downstream effector of the nuclear phosphatidylinositol 4
+Imaging intracellular viscosity of a single cell during photoinduced cell death
+"Indacenodithiophene semiconducting polymers for high-performance
+Induction of Circularly Polarized Electroluminescence from an Achiral Light-Emitting Polymer via a Chiral Small-Molecule Dopant
+Influence of Different Substituents on the Surface Composition of Ionic Liquids Studied Using ARXPS
+Intramolecular Hydroamination of Aminoalkenes by Calcium and Magnesium Complexes: A Synthetic and Mechanistic Study
+"Intramolecular Simmons-Smith Cyclopropanation. Studies into the Reactivity of Alkyl-Substituted Zinc Carbenoids
+Intrinsic structure of hydrophobic surfaces: The oil-water interface
+"Intrinsically chiral aromaticity. Rules incorporating linking number
+Ionic liquid pretreatment of lignocellulosic biomass with ionic liquid-water mixtures
+Linking electronic and molecular structure: insight into aqueous chloride solvation
+Low band gap selenophene-diketopyrrolopyrrole polymers exhibiting high and balanced ambipolar performance in bottom-gate transistors
+Mapping microbubble viscosity using fluorescence lifetime imaging of molecular rotors
+Mapping the Ion Current Distribution in Nanopore/Electrode Devices
+MAS-NMR studies of glasses and glass-ceramics based on a clinopyroxene-fluorapatite system
+"Mechanism of photocatalytic water splitting in TiO2. Reaction of water with photoholes
+Mechanistic investigation and reaction kinetics of the low-pressure copolymerization of cyclohexene oxide and carbon dioxide catalyzed by a dizinc complex.
+Membrane-Bound Molecular Rotors Measure Viscosity in Live Cells via Fluorescence Lifetime Imaging
+Methylene-Bridged Bis(imidazoline)-Derived 2-Oxopyrimidinium Salts as Catalysts for Asymmetric Michael Reactions
+Microfluidic device to investigate factors affecting performance in biosensors designed for transdermal applications
+Model studies for the synthesis of the antibiotic lactonamycin and the discovery of new reactions and mechanisms for the construction of substituted heterocycles
+Molecular Basis of Structure-Activity Relationships between Salphen Metal Complexes and Human Telomeric DNA Quadruplexes
+Molecular dynamics of nanoparticle translocation at lipid interfaces
+Molecular dynamics simulation of water confined in a nanopore of amorphous silica
+Molecular rotor measures viscosity of live cells via fluorescence lifetime imaging
+Multifunctional protein labeling via enzymatic N-terminal tagging and elaboration by click chemistry.
+Multifunctional Structural Supercapacitor Composites Based on Carbon Aerogel Modified High Performance Carbon Fiber Fabric
+"Multimetallic arrays: bi-
+Multimetallic complexes and functionalized nanoparticles based on oxygen- and nitrogen-donor combinations.
+Mutational Locally Enhanced Sampling (MULES) for quantitative prediction of the effects of mutations at protein-protein interfaces
+Nanostructured hybrid polymer-inorganic solar cell active layers formed by controllable in situ growth of semiconducting sulfide networks.
+New algorithms for optimizing and linking conical intersection points
+N-Myristoyl transferase-mediated protein labelling in vivo
+Non-innocent behaviour of dithiocarboxylate ligands based on N-heterocyclic carbenes.
+Non-Metal-Mediated Homogeneous Hydrogenation of CO2 to CH3OH
+"Novel H-2 activation by a tris[3
+One- and two-photon activated phototoxicity of conjugated porphyrin dimers with high two-photon absorption cross sections
+Optical fingerprinting of peptides using two-dimensional infrared spectroscopy: proof of principle.
+Osmosensitive Changes of Carbohydrate Metabolism in Response to Cellulose Biosynthesis Inhibition
+Oxidative purification of halogenated ferrocenes
+"Palladium-Catalyzed Oligocyclizations of 2-Bromoalk-1-ene-(n+1)
+"Palladium-Catalyzed Oligocyclizations of 2-Bromoalka-1
+Parameters influencing the efficiency of electron injection in dye-sensitized solar cells.
+Photophysical properties and intracellular imaging of water-soluble porphyrin dimers for two-photon excited photodynamic therapy
+Plasmonic Ruler at the Liquid-Liquid Interface
+Precise electrochemical fabrication of sub-20 nm solid-state nanopores for single-molecule biosensing
+Pressure-temperature phase behaviour of natural sphingomyelin extracts
+Probing anodic reaction kinetics and interfacial mass transport of a direct formic acid fuel cell using a nanostructured palladium-gold alloy microelectrode
+Protein identification and quantification by two-dimensional infrared spectroscopy: Implications for an all-optical proteomic platform
+Protein multi-scale organization through graph partitioning and robustness analysis: application to the myosin-myosin light chain interaction
+Protocell design through modular compartmentalization.
+Quadruple bonding in C(2) and analogous eight-valence electron species.
+Quantitative measure of hysteresis for memristors through explicit dynamics
+Quantitative model for the kinetics of lyotropic phase transitions involving changes in monolayer curvature
+Rapid Carbon-11 Radiolabelling for PET Using Microfluidics
+Rapid Sonogashira cross-coupling of iodoferrocenes and the unexpected cyclo-oligomerization of 4-ethynylphenylthioacetate.
+Rapid Ultra-Sensitive Single Particle Surface Enhanced Raman Spectroscopy using Metallic Nanopores
+Recombination dynamics as a key determinant of open circuit voltage in organic bulk heterojunction solar cells: a comparison of four different donor polymers.
+Re-evaluation of Recombination Losses in Dye-Sensitized Cells: The Failure of Dynamic Relaxation Methods to Correctly Predict Diffusion Length in Nanoporous Photoelectrodes
+"Removal or masking of phosphatidylinositol(4
+Reusable and highly active supported copper(i)-NHC catalysts for Click chemistry.
+Salts dissolved in salts: ionic liquid mixtures
+"Scalable method for the reductive dissolution
+Scaling Advantages and Constraints in Miniaturized Capture Assays for Single Cell Protein Analysis
+Self-assembled nanoparticle arrays for multiphase trace analyte detection
+Self-assembly in the electrical double layer of ionic liquids
+"Separating electrophilicity and Lewis acidity: the synthesis
+"Signatures of DNA flexibility
+Significance of a zwitterionic state for fulgide photochromism: implications for the design of mimics.
+Singlet oxygen in a cell: spatially dependent lifetimes and quenching rate constants.
+Slip coefficient in nanoscale pore flow
+Small-molecule histone methyltransferase inhibitors display rapid antimalarial activity against all blood stage forms in Plasmodium falciparum.
+Smart plastic antibody material (SPAM) tailored on disposable screen printed electrodes for protein recognition: Application to myoglobin detection
+Soaking of pine wood chips with ionic liquids for reduced energy input during grinding
+Spatially selective sampling of single cells using optically trapped fusogenic emulsion droplets: a new single-cell proteomic tool
+Spin- and Spray-Deposited Single-Walled Carbon-Nanotube Electrodes for Organic Solar Cells
+Stability of graph communities across time scales.
+Structural characterization of magnesium organocuprates derived from Grignard reagents: Cu-I-based inverse crown ethers
+Structural Diversity in Metal-Organic Frameworks Built from Rigid Tetrahedral [Si(p-C(6)H(4)CO(2))(4)](4-) Struts
+Structural transformations in graphene studied with high spatial and temporal resolution
+Structure and dynamics of phospholipid bilayers using recently developed general all-atom force fields.
+Structure of fluoride-containing bioactive glasses
+Structure/Function Relationships in Dyes for Solar Energy Conversion: A Two-Atom Change in Dye Structure and the Mechanism for Its Effect on Cell Voltage
+Synthesis and characterization of hypoxia-mimicking bioactive glasses for skeletal regeneration
+Synthesis and phase behaviour of beta-octaalkyl porphyrins
+Synthesis of [RuCl2(NO)(2)(THF)] and its Double C-N Bond-Forming Reactions with Alkenes
+Systematic improvement in charge carrier mobility of air stable triarylamine copolymers.
+"Tetravalent Silicon Connectors MenSi(p-C6H4CO2H)(4-n) (n=0
+The crystal structure of yeast CCT reveals intrinsic asymmetry of eukaryotic cytosolic chaperonins.
+The development of a selective cyclin-dependent kinase inhibitor that shows antitumor activity.
+The effect of the ionic liquid anion in the pretreatment of pine wood chips
+The gas-phase equilibrium structures of Si8O12(OSiMe3)8 and Si8O12(CHCH2)8.
+The gas-phase structure and some reactions of the bulky primary silane (Me(3)Si)(3)CSiH(3) and the solid-state structure of the bulky dialkyl disilane [(Me(3)Si)(3)CSiH(2)](2).
+The generation and trapping of enantiopure bromonium ions
+The homology recognition well as an innate property of DNA structure
+The interaction network of the chaperonin CCT.
+The role of adsorbed hydroxyl species in the electrocatalytic carbon monoxide oxidation reaction on platinum.
+Theoretical Prediction of Selectivity in Kinetic Resolution of Secondary Alcohols Catalyzed by Chiral DMAP Derivatives
+Thermomolecular Orientation of Nonpolar Fluids
+"Thieno[3
+Three-layer ONIOM studies of the dark state of rhodopsin: the protonation state of Glu181.
+Total synthesis of (+/-)-aspercyclide A and its C19 methyl ether.
+Total synthesis of the lycorenine-type amaryllidaceae alkaloid (+/-)-clivonine via a biomimetic ring-switch from a lycorine-type progenitor.
+"Towards a Molecular Understanding of Cation-Anion Interactions-Probing the Electronic Structure of Imidazolium Ionic Liquids by NMR Spectroscopy
+Towards an understanding of phase transitions between inverse bicontinuous cubic lyotropic liquid crystalline phases
+Towards photocatalytic alkane oxidation: the insertion of dioxygen into a platinum(II)-methyl bond.
+Towards understanding the structure and capacitance of electrical double layer in ionic liquids
+"Toxicity of Copper(I)-NHC Complexes Against Human Tumor Cells: Induction of Cell Cycle Arrest
+"Transannular
+Transient optical studies of interfacial charge transfer at nanostructured metal oxide/PbS quantum dot/organic hole conductor heterojunctions.
+Understanding siloxane functionalised ionic liquids.
+Unusual reversal of enantioselectivity in the proline-mediated alpha-amination of aldehydes induced by tertiary amine additives.
+"Verification of stereospecific dyotropic racemisation of enantiopure D and L-1
+Water polarization under thermal gradients
+Water-based electrolytes for dye-sensitized solar cells.
+Yttrium Phosphasalen Initiators for rac-Lactide Polymerization: Excellent Rates and High Iso-Selectivities.
+4f/5d hybridization in the heavy rare earth elements Er and Tm
+99mTc-HYNIC-Gastrin Peptides: Assisted Coordination of 99mTc by Amino Acid Side Chains Results in Improved Performance Both In Vitro and In Vivo
+A new iron oxyselenide Ce2O2FeSe2: synthesis and characterisation
+"A Structural and Magnetic Investigation of the Inversion Degree in Ferrite Nanocrystals MFe2O4(M = Mn
+A technetium intermediate specifically promotes deprotection of trifluoroacetyl HYNIC during radiolabelling under mild conditions
+AAA?DDD Triple Hydrogen Bond Complexes
+An AAAA�DDDD quadruple hydrogen-bond array
+Antimicrobial Gallium-Doped Phosphate-Based Glasses
+B-cation effects in relaxor and ferroelectric tetragonal tungsten bronzes
+Cobalt Oxalate Nanoribbons as Negative-Electrode Material for Lithium-Ion Batteries
+Comparison of a calculated and measured XANES spectrum of ?-Fe2O3
+Cryo Electron Tomography Reveals Confined Complex Morphologies of Tripeptide-Containing Amphiphilic Double-Comb Diblock Copolymers
+E1 and E2 contributions to the L3resonance line shape in antiferromagnetic holmium
+"Effect of capping groups at the N- and C-termini on the conformational preference of ?
+Elastic and Vibrational Properties of ?- and ?-PbO.
+Evidence for Time-Reversal Symmetry Breaking in the Noncentrosymmetric Superconductor LaNiC2
+Ferroelectric-Paraelectric Transition in BiFeO3: Crystal Structure of the Orthorhombic ? Phase
+Ferromagnetic and ferroelectric quantum phase transitions
+Formation and cation distribution in supported manganese ferrite nanoparticles: an X-ray absorption study
+Full Counting Statistics in the Self-Dual Interacting Resonant Level Model
+Identifying Spinel Phases in Nearly Monodisperse Iron Oxide Colloidal Nanocrystal
+In Situ Structural Changes upon Electrochemical Lithium Insertion in Nanosized Anatase TiO2
+Influence of particles alloying on the performances of Pt�Ru/CNT catalysts for selective hydrogenation
+J-ICE: a newJmolinterface for handling and visualizing crystallographic and electronic properties
+Magnesium incorporation into hydroxyapatite
+Mapping Nanostructure: A Systematic Enumeration of Nanomaterials by Assembling Nanobuilding Blocks at Crystallographic Positions
+"Metanematic
+Mn(I) in an Extended Oxide: The Synthesis and Characterization of La1-xCaxMnO2+?(0.6 ? x ? 1)
+Molecular-dynamics modeling of Eu3+-ion clustering in SiO2 glass
+Nanocrystalline Fe1?xCoxSn2 solid solutions prepared by reduction of salts in tetraethylene glycol
+"Nanosized high voltage cathode material LiMg0.05Ni0.45Mn1.5O4: Structural
+Neutron-Diffraction Measurements of Magnetic Order and a Structural Transition in the Parent BaFe_{2}As_{2} Compound of FeAs-Based High-Temperature Superconductors
+NiFe2O4 Nanoparticles Dispersed in an Aerogel Silica Matrix: An X-ray Absorption Study
+Nonunitary Triplet Pairing in the Centrosymmetric Superconductor LaNiGa_{2}
+Note: Compact optical fiber coupler for diamond anvil high pressure cells
+Octadecyl acrylate � Methyl methacrylate block and gradient copolymers from ATRP: Comb-like stabilizers for the preparation of micro- and nano-particles of poly(methyl methacrylate) and poly(acrylonitrile) by non-aqueous dispersion polymerization
+Predicting the Electrochemical Properties of MnO2Nanomaterials Used in Rechargeable Li Batteries: Simulating Nanostructure at the Atomistic Level
+"Preparation
+Pressure-induced collapse of ferromagnetism in cobalt up to 120 GPa as seen via x-ray magnetic circular dichroism
+Pressure-induced volume-collapsed tetragonal phase of CaFe2As2 as seen via neutron scattering
+Probing the calcium and sodium local environment in bones and teeth using multinuclear solid state NMR and X-ray absorption spectroscopy
+Reduced Graphene Oxide Conjugated Cu2O Nanowire Mesocrystals for High-Performance NO2Gas Sensor
+Relativistic Quantum Revivals
+Self-Assembly of Cerium Oxide Nanostructures in Ice Molds
+Single step synthesis of Ge�SiOx core-shell heterostructured nanowires
+Stability of gold atoms and dimers adsorbed on graphene
+Structural and magnetic characterization of synthetic ferrihydrite nanoparticles
+Structural and magnetic phase diagram of CeFeAsO1? xFx and its relation to high-temperature superconductivity
+Structure and Chemical Bonding in Zr-Doped Anatase TiO2 Nanocrystals
+Structure and properties of strontium-doped phosphate-based glasses
+Synthesis of Ordered Mesoporous NiO with Crystalline Walls and a Bimodal Pore Size Distribution
+Technetium-binding in labelled HYNIC-peptide conjugates: Role of coordinating amino acids
+Temperature-Responsive Nanospheres with Bicontinuous Internal Structures from a Semicrystalline Amphiphilic Block Copolymer
+The synthesis and self-assembly of ABA amphiphilic block copolymers containing styrene and oligo(ethylene glycol) methyl ether methacrylate in dilute aqueous solutions: Elevated cloud point temperatures for thermoresponsive micelles
+The ?-to-? Transition in BiFeO3: A Powder Neutron Diffraction Study
+"Tunable (??
+Unbinding of Giant Vortices in States of Competing Order
+3-Chloromethylpyridyl Bipyridine fac Tricarbonyl Rhenium: A Thiol-Reactive Lumophore for Fluorescence Microscopy Accumulates In Mitochondria
+"A �Sleeping Trojan Horse� which transports metal ions into cells
+A high-resolution Ca-43 solid-state NMR study of the calcium sites of hydroxyapatite
+A rhenium tricarbonyl 4�-oxo-terpy trimer as a luminescent molecular vessel with a removable silver stopper
+Catalytic decarboxylative alkenylation of enolates
+Chloride anion templated synthesis and crystal structure of a handcuff catenane
+Continuous two-phase flow miniaturised bioreactor for monitoring anaerobic biocatalysis by pentaerythritol tetranitrate reductase
+Design of an N-methylated peptide inhibitor of alpha-synuclein aggregation guided by solid-state NMR
+Determination of chlorine containing species in explosive residues using chip-based isotachophoresis
+Direct calculation of solid-liquid interfacial free energy for molecular systems : TIP4P ice-water interface
+Emission wavelength variation with changes in excitation in a Re(I)�bisthiazolate ligand complex that breaks the Kasha�Vavilov rule
+Excitation energies in density functional theory: An evaluation and a diagnostic test
+Insights into the Molecular Architecture of a Peptide Nanotube Using FTIR and Solid-State NMR Spectroscopic Measurements on an Aligned Sample
+Mechanistic Elucidation of Intramolecular Aminoalkene Hydroamination Catalyzed by a Tethered Bis(ureate) Complex: Evidence for Proton-Assisted C-N Bond Formation at Zirconium
+Mode of action and design rules for additives that modulate crystal nucleation
+Modular and predictable assembly of porous organic molecular crystals
+Nanofiber-based delivery of therapeutic peptides to the brain
+Natural abundance Mg-25 solid-state NMR of Mg oxyanion systems : a combined experimental and computational study
+On-off porosity switching in a molecular organic solid
+Optimisation and analysis of microreactor designs for microfluidic gradient generation using a purpose built optical detection system for entire chip imaging
+P-31 MAS refocused INADEQUATE spin-echo (REINE) NMR spectroscopy : revealing J coupling and chemical shift two-dimensional correlations in disordered solids
+Plasmonic Response of Ag- and Au-Infiltrated Cross-Linked Lysozyme Crystals
+Porous organic cages
+Site-specific identification of an a? fibril-heparin interaction site by using solid-state NMR spectroscopy
+Structural insights into the polymorphism of amyloid-like fibrils formed by region 20-29 of amylin revealed by solid-state NMR and X-ray fiber diffraction
+Structure of ice crystallized from supercooled water
+Synthetic control of the pore dimension and surface area in conjugated microporous polymer and copolymer networks
+Thermotropic biaxial nematic order parameters and phase transitions deduced by Raman scattering
+Transmission and amplification of information and properties in nanostructured liquid crystals
+Ultra-high resolution 17O solid-state NMR spectroscopy of biomolecules : a comprehensive spectral analysis of monosodium L-glutamate�monohydrate
+Unusual properties of a bent-core liquid-crystalline fluid
+Using droplet-based microfluidic technology to study the precipitation of a poorly water-soluble weakly basic drug upon a pH-shift
+A chemical model of meteoric ablation
+"A chiral
+A cobalt metallacrown anion host with guest-dependent redox activity
+A combinatorial in silico and cellular approach to identify a new class of compounds that target VEGFR2 receptor tyrosine kinase activity and angiogenesis
+"A Compact Functional Quantum Dot-DNA Conjugate: Preparation
+A condensation-ordering mechanism in nanoparticle-catalyzed peptide aggregation
+A metal-organic framework with a covalently prefabricated porous organic linker
+A New Model for Magnesium Chemistry in the Upper Atmosphere
+"A pH-triggered
+A robust method to heterogenise and recycle group 9 catalysts
+A small molecule with differential effects on the PTS1 and PTS2 peroxisome matrix import pathways
+Accelerated chemistry in the reaction between the hydroxyl radical and methanol at interstellar temperatures facilitated by tunnelling
+Alkene hydroboration: hot intermediates that react while they are cooling
+Amide linkage isomerism as an activity switch for organometallic osmium and ruthenium anticancer complexes
+"Ammonium
+Amorphous Calcium Carbonate is Stabilized in Confinement
+An artificial biomineral formed by incorporation of copolymer micelles in calcite crystals
+An electrochemical study into the interaction between complement-derived peptides and DOPC mono- and bilayers
+An experimental and theoretical investigation of the competition between chemical reaction and relaxation for the reactions of (CH2)-C-1 with acetylene and ethene: implications for the chemistry of the giant planets
+"An iron(II) complex exhibiting five anhydrous phases
+Analysis of the eukaryotic prenylome by isoprenoid affinity tagging
+Anion binding and luminescent sensing using cationic ruthenium(II) aminopyridine complexes
+Boxed molecular dynamics: a simple and general technique for accelerating rare event kinetics and mapping free energy in large molecular systems
+Catalytic aza-Wittig cyclizations for heteroaromatic synthesis
+Characterization of the evolutionarily conserved iron-sulfur cluster of sirohydrochlorin ferrochelatase from Arabidopsis thaliana
+Chiral N-heterocyclic carbene ligands for asymmetric catalytic oxindole synthesis
+"Classical
+Clusters and switchers in globally coupled photochemical oscillators
+Communications: When diffraction rules the stereodynamics of rotationally inelastic collisions
+Concentrating membrane proteins using asymmetric traps and AC electric fields
+Confounding the paradigm: Peculiarities of amyloid fibril nucleation
+Controlled Planar Alignment of Discotic Liquid Crystals in Microchannels Made Using SU8 Photoresist
+Covalent cross-linking within supramolecular peptide structures
+Cytochrome c causes pore formation in cardiolipin-containing membranes
+De novo designed positively charged tape-forming peptides: self-assembly and gelation in physiological solutions and their evaluation as 3D matrices for cell growth
+Deboronation and deprotonation of ortho-carborane with N-heterocyclic carbenes
+Deconvolution of the Mechanism of Homogeneous Gold-Catalyzed Reactions
+Development of Highly Potent Inhibitors of the Ras-Targeting Human Acyl Protein Thioesterases Based on Substrate Similarity Design
+Discovery of biphenylacetamide-derived inhibitors of BACE1 using de novo structure-based molecular design
+Do glycosyl sulfonium ions engage in neighbouring-group participation? A study of oxathiane glycosyl donors and the basis for their stereoselectivity
+Dynamical Quorum Sensing and Synchronization in Large Populations of Chemical Oscillators
+Efficient N-Terminal Labeling of Proteins by Use of Sortase
+"Efficient
+Electrochemical modeling of the silica nanoparticle-biomembrane interaction
+Emergence of Collective Behavior in Groups of Excitable Catalyst-Loaded Particles: Spatiotemporal Dynamical Quorum Sensing
+Enhancing the probability of three-photon absorption in iodine through pulse shaping
+Evidence of formation of bicyclic species in the early stages of atmospheric benzene oxidation
+Experimental and modeling studies of the pressure and temperature dependences of the kinetics and the OH yields in the acetyl + O2 reaction
+Exploring nuclear motion through conical intersections in the UV photodissociation of phenols and thiophenol
+Extensive halogen-mediated ozone destruction over the tropical Atlantic Ocean
+Factors influencing the specificity of inhibitor binding to the human and malaria parasite dihydroorotate dehydrogenases
+Fmoc-chemistry of a stable phosphohistidine analogue
+Gaussian-based techniques for quantum propagation from the time-dependent variational principle: Formulation in terms of trajectories of coupled classical and quantum variables
+Highly specific dual enzyme-mediated payload release from peptide-coated silica particles
+HO x observations over West Africa during AMMA: Impact of isoprene and NO x
+"Interaction of self-assembling ?-sheet peptides with phospholipid monolayers: The role of aggregation state
+Interception of excited vibrational quantum states by O2 in atmospheric association reactions
+Intramolecular Amide Stacking and Its Competition with Hydrogen Bonding in a Small Foldamer
+Involvement of GSK-3 in Regulation of Murine Embryonic Stem Cell Self-Renewal Revealed by a Series of Bisindolylmaleimides
+Iridium-catalysed amine alkylation with alcohols in water
+Isoprene oxidation mechanisms: Measurements and modelling of OH and HO2 over a South-East Asian tropical rainforest during the OP3 field campaign
+Kinetics and product branching ratios of the reaction of (CH2)-C-1 with H-2 and D-2
+Lanthanide chloride complexes of amine-bis(phenolate) ligands and their reactivity in the ring-opening polymerization of ?-caprolactone
+Manipulation and sorting of membrane proteins using patterned diffusion-aided ratchets with AC fields in supported lipid bilayers
+Measurements of OH and HO2 yields from the gas phase ozonolysis of isoprene
+Measurements of uptake coefficients for heterogeneous loss of HO2 onto submicron inorganic salt aerosols
+Mechanistic studies on a sulfoxide transfer reaction mediated by diphenyl sulfoxide/triflic anhydride
+Metallohelices with activity against cisplatin-resistant cancer cells; does the mechanism involve DNA binding?
+N-alkylated oligoamide ?-helical proteomimetics
+Nanomechanical detection of antibiotic-mucopeptide binding in a model for superbug drug resistance
+Nanostructured Calcite Single Crystals with Gyroid Morphologies
+New findings regarding the NO angular momentum orientation in Ar-NO( 2? 1/2) collisions
+Nonadiabatic dynamics with the help of multiconfigurational Ehrenfest method: Improved theory and fully quantum 24D simulation of pyrazine
+"O2(a1?g) + Mg
+Observation of a large negative temperature dependence for rate coefficients of reactions of OH with oxygenated volatile organic compounds studied at 86-112 K
+Observation of geometric phase effect induced photodissociation dynamics in phenol
+Oligobenzamide proteomimetic inhibitors of the p53-hDM2 protein-protein interaction
+Optimizing Protein Stability In Vivo
+Organisation of self-assembling peptide nanostructures into macroscopically ordered lamella-like layers by ice crystallisation
+Palladium-Catalyzed Aminosulfonylation of Aryl Halides
+Phase Clusters in Large Populations of Chemical Oscillators
+Phase diagram of ?-helical and ?-sheet forming peptides
+Phospholipid monolayer coated microfabricated electrodes to model the interaction of molecules with biomembranes
+Phosphorylation as a tool to modulate aggregation propensity and to predict fibril architecture
+Photodissociation of ClNO in the 2 (1) A' State: Computational and Experimental NO Product State Distributions
+Photodissociation of NO2 in the (2)B-2(2) state: A slice imaging study and reinterpretation of previous results
+Planar Alignment of Columnar Discotic Liquid Crystals by Isotropic Phase Dewetting on Chemically Patterned Surfaces
+Psoromic acid is a selective and covalent Rab-prenylation inhibitor targeting autoinhibited RabGGTase
+Quantifying the magnitude of a missing hydroxyl radical source in a tropical rainforest
+Quantum mechanics with the basis set guided by Ehrenfest trajectories: theory and application to spin-boson model
+Quantum yields for the photolysis of glyoxal below 350 nm and parameterisations for its photolysis rate in the troposphere
+Rate Constants and Branching Ratios for the Reaction of CH Radicals with NH(3): A Combined Experimental and Theoretical Study
+Rational molecular design of complementary self-assembling peptide hydrogels
+"Reactivity
+Remarkably slow rotation about a single bond between an sp(3)-hybridised carbon atom and an aromatic ring without ortho substituents
+Residual ligand entropy in the binding of p-substituted benzenesulfonamide ligands to bovine carbonic anhydrase II
+Reversible assembly of stacked membrane nanodiscs with reduced dimensionality and variable periodicity
+Seasonal observations of OH and HO2 in the remote tropical marine boundary layer
+"Selective Amine Cross-Coupling Using Iridium-Catalyzed ""Borrowing Hydrogen"" Methodology"
+Self-assembly of a 3-D triply interlocked chiral [2]catenane
+Self-Templated Nucleation in Peptide and Protein Aggregation
+Sequential and phototriggered supramolecular self-sorting cascades using hydrogen-bonded motifs
+Significance of nonstatistical dynamic
