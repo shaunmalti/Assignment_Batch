@@ -1,9 +1,10 @@
 /**
  * Created by shaunmarkham on 25/10/2017.
  */
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
-
 import org.apache.hadoop.fs.*;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.*;
@@ -13,6 +14,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.input.TextInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
+
 
 
 public class Assignment_Batch {
@@ -51,10 +53,9 @@ public class Assignment_Batch {
 //the driver class contains the main
 
     public static void main(String[] args) throws Exception {
-
         Configuration conf = new Configuration();
 
-        Job job = new Job(conf, "wordcount");
+        Job job = new Job(conf, "REFAnalysis");
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
@@ -62,13 +63,42 @@ public class Assignment_Batch {
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
 
+        job.setReducerClass(Reduce2.class);
+
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
+
+
 
         FileInputFormat.addInputPath(job, new Path(args[0]));
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         job.waitForCompletion(true);
     }
+    //the driver class contains the main
+
+    public static class Reduce2 extends Reducer<Text, IntWritable, Text, IntWritable> {
+        //3 primary phases: shuffle, sort and reduce
+        //parameters for reducer define the types of input and output key/value pairs
+//                collector writes output to filesystem
+        public void reduce(Text key, Iterable<IntWritable> values, Context context)
+                throws IOException, InterruptedException {
+            int sum = 0;
+            //at this point change input values
+            for (IntWritable val : values) {
+                sum += val.get();
+            }
+            context.write(key, new IntWritable(sum));
+        }
+
+        public Parser_Class_With_Tags.MyPair Get_inst() throws IOException{
+            Parser_Class_With_Tags.MyPair gettags = Parser_Class_With_Tags.Gettags();
+
+            return gettags;
+        }
+    }
+
+
+
 
 }
