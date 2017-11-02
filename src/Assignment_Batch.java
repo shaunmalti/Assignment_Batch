@@ -67,6 +67,7 @@ public class Assignment_Batch {
 
         //TODO AT this point I have a list of uni_info objects that have lists of tuples within them
 
+
         Configuration conf = new Configuration();
 
         Job job = new Job(conf, "REFAnalysis");
