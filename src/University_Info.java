@@ -102,6 +102,13 @@ class University_Info implements java.io.Serializable, Comparator<University_Inf
                 + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625);
     }
 
+    public boolean Contains_Tuples() {
+        if (this.Uni_Tuples.size() != 0)
+            return true;
+        else
+            return false;
+    }
+
     @Override
     public int compareTo(@SuppressWarnings("NullableProblems") University_Info d) {
         return (this.getScore()).compareTo(d.getScore());

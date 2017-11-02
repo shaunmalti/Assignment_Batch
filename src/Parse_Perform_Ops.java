@@ -1,7 +1,16 @@
 import au.com.bytecode.opencsv.CSVReader;
+import org.apache.commons.io.FileUtils;
 
 import java.io.*;
+import java.nio.DoubleBuffer;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.nio.file.StandardCopyOption;
 import java.util.*;
+
+import static org.apache.commons.io.FileUtils.moveDirectory;
+import static org.apache.commons.io.FileUtils.write;
 
 /**
  * Created by shaunmarkham on 25/10/2017.
@@ -9,7 +18,7 @@ import java.util.*;
 class Parse_Perform_Ops {
 
     public static ArrayList<Tuple> Parse_Read() throws Exception {
-        File folder = new File(System.getProperty("user.dir") + "/data/Subject_data"); //TODO MAKE THIS GENERIC
+        File folder = new File(System.getProperty("user.dir") + "/data/Subject_data");
         File[] listOfFiles = folder.listFiles();
         ArrayList<Tuple> Data = new ArrayList<>();
         List<String[]> myEntries = new ArrayList<>();
@@ -30,16 +39,30 @@ class Parse_Perform_Ops {
         return Data;
     }
 
-    public static void PrinterMethod(ArrayList<Tuple> Array_Data) throws FileNotFoundException, UnsupportedEncodingException {
-        PrintWriter writer = new PrintWriter(System.getProperty("user.dir") + "/textfile/textfile.txt", "UTF-8"); //TODO MAKE THIS GENERIC
-        for (Tuple aArray_Data : Array_Data) {
-            writer.println(aArray_Data.getWords());
+    public static void PrinterMethod(University_Info object, File file) throws FileNotFoundException, UnsupportedEncodingException, IOException {
+        PrintWriter writer = new PrintWriter(new FileWriter(file, true));
+        for (String aArray_Data : object.getUni_Tuples()) {
+            writer.println(aArray_Data);
         }
         writer.close();
     }
 
+    public static void Cleanup(String item) throws IOException{
+        new File(System.getProperty("user.dir") + "/legacy_output").mkdir();
+
+        File newfile = new File(System.getProperty("user.dir") + "/legacy_output/part_" + item + ".txt");
+        if (!newfile.exists()) {
+            newfile.createNewFile();
+        }
+        Path from = Paths.get(System.getProperty("user.dir") + "/output/part-r-00000");
+        Path to = Paths.get(System.getProperty("user.dir") + "/legacy_output/part_" + item + ".txt");
+        Files.move(from, to, StandardCopyOption.REPLACE_EXISTING);
+        File folder = new File(System.getProperty("user.dir") + "/output/");
+        FileUtils.deleteDirectory(folder);
+    }
+
     public static ArrayList<University_Info> Get_Uni_Info() throws Exception {
-        CSVReader reader = new CSVReader(new FileReader(System.getProperty("user.dir") + "/data/REF2014_Results.csv"), ',', '"', 1);  //TODO MAKE THIS GENERIC
+        CSVReader reader = new CSVReader(new FileReader(System.getProperty("user.dir") + "/data/REF2014_Results.csv"), ',', '"', 1);
         ArrayList<University_Info> Data = new ArrayList<>();
         @SuppressWarnings("unchecked") List<String[]> myEntries = reader.readAll();
         for (int x = 7; x < myEntries.size(); x++) {
@@ -88,5 +111,42 @@ class Parse_Perform_Ops {
         return result;
     }
 
+    public static void SortOutput() throws IOException{
+        File output = new File(System.getProperty("user.dir") + "/output/part-r-00000");
+        HashMap<String,Integer> Data = new HashMap();
+        try (BufferedReader br = new BufferedReader(new FileReader(output))) {
+            String line;
+            while ((line = br.readLine()) != null) {
+                String[] splitline = line.split("\t");
+                Data.put(splitline[0], Integer.valueOf(splitline[1]));
+            }
+        }
+        Map<String,Integer> Sorted_Data = sortByValue(Data);
+        int total_occ = 0;
+        for (String aArray_Data : Sorted_Data.keySet()) {
+           total_occ += Sorted_Data.get(aArray_Data);
+        }
+        PrintWriter writer = new PrintWriter(new FileWriter(output));
+        for (String aArray_Data : Sorted_Data.keySet()) {
+            writer.println(aArray_Data + "\t" + Sorted_Data.get(aArray_Data) + "\t" + ((Double.valueOf(Sorted_Data.get(aArray_Data))/total_occ)*100) + "%");
+        }
+        writer.close();
+    }
 
+    public static <K, V extends Comparable<? super V>> Map<K, V>
+    sortByValue(Map<K, V> map) {
+        List<Map.Entry<K, V>> list = new LinkedList<>(map.entrySet());
+        Collections.sort( list, new Comparator<Map.Entry<K, V>>() {
+            @Override
+            public int compare(Map.Entry<K, V> o1, Map.Entry<K, V> o2) {
+                return (o2.getValue()).compareTo(o1.getValue());
+            }
+        });
+
+        Map<K, V> result = new LinkedHashMap<>();
+        for (Map.Entry<K, V> entry : list) {
+            result.put(entry.getKey(), entry.getValue());
+        }
+        return result;
+    }
 }
