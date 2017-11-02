@@ -1,6 +1,7 @@
 /**
  * Created by shaunmarkham on 25/10/2017.
  */
+import java.io.File;
 import java.io.IOException;
 import java.util.*;
 import org.apache.hadoop.fs.Path;
@@ -82,6 +83,8 @@ class Assignment_Batch {
 
         ArrayList<University_Info> Total_Dept_Score = Parser_Class_With_Tags.Tuple_Uni_Linker(Uni_Info, Info); //this can be reduced on but how?
 
+        File folder = new File(System.getProperty("user.dir") + "/data/Subject_data");
+        File[] listOfFiles = folder.listFiles();
         Collections.sort(Total_Dept_Score);
 
         //TODO AT this point I have a list of uni_info objects that have lists of tuples within them

@@ -9,7 +9,7 @@ import java.util.*;
 class Parser_Class_With_Tags {
 
     public static ArrayList<Tuple> Parse_Read() throws Exception {
-        File folder = new File("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/sample/"); //TODO MAKE THIS GENERIC
+        File folder = new File(System.getProperty("user.dir") + "/data/Subject_data"); //TODO MAKE THIS GENERIC
         File[] listOfFiles = folder.listFiles();
         ArrayList<Tuple> Data = new ArrayList<>();
         List<String[]> myEntries = new ArrayList<>();
@@ -31,7 +31,7 @@ class Parser_Class_With_Tags {
     }
 
     public static void PrinterMethod(ArrayList<Tuple> Array_Data) throws FileNotFoundException, UnsupportedEncodingException {
-        PrintWriter writer = new PrintWriter("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/textfile/textfile.txt", "UTF-8"); //TODO MAKE THIS GENERIC
+        PrintWriter writer = new PrintWriter(System.getProperty("user.dir") + "/textfile/textfile.txt", "UTF-8"); //TODO MAKE THIS GENERIC
         for (Tuple aArray_Data : Array_Data) {
             writer.println(aArray_Data.getWords());
         }
@@ -39,7 +39,7 @@ class Parser_Class_With_Tags {
     }
 
     public static ArrayList<University_Info> Get_Uni_Info() throws Exception {
-        CSVReader reader = new CSVReader(new FileReader("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/REF2014_Results.csv"), ',', '"', 1);  //TODO MAKE THIS GENERIC
+        CSVReader reader = new CSVReader(new FileReader(System.getProperty("user.dir") + "/data/REF2014_Results.csv"), ',', '"', 1);  //TODO MAKE THIS GENERIC
         ArrayList<University_Info> Data = new ArrayList<>();
         @SuppressWarnings("unchecked") List<String[]> myEntries = reader.readAll();
         for (int x = 7; x < myEntries.size(); x++) {
