@@ -6,7 +6,7 @@ import java.util.*;
 /**
  * Created by shaunmarkham on 25/10/2017.
  */
-class Parser_Class_With_Tags {
+class Parse_Perform_Ops {
 
     public static ArrayList<Tuple> Parse_Read() throws Exception {
         File folder = new File(System.getProperty("user.dir") + "/data/Subject_data"); //TODO MAKE THIS GENERIC
@@ -67,6 +67,26 @@ class Parser_Class_With_Tags {
         return Uni_Info;
     }
 
+    public static Map<String, List<University_Info>>  ReturnMultiple(ArrayList<University_Info> Total_Dept_Score) {
+        Map<String, List<University_Info>> result = new HashMap<>();
+        for (University_Info p : Total_Dept_Score) {
+            List<University_Info> list = result.get(p.getAsses_Name());
+            if (list == null) {
+                list = new ArrayList<>();
+                result.put(p.getAsses_Name(), list);
+            }
+            list.add(p);
+        }
+        for (String items : result.keySet()) {
+            Collections.sort(result.get(items));
+            if (result.get(items) != null) {
+                while (result.get(items).size() > 10) { //get top 10 unis for each category
+                    result.get(items).remove(0);
+                }
+            }
+        }
+        return result;
+    }
 
 
 }

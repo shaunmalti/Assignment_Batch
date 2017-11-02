@@ -1,7 +1,6 @@
 /**
  * Created by shaunmarkham on 25/10/2017.
  */
-import java.io.File;
 import java.io.IOException;
 import java.util.*;
 import org.apache.hadoop.fs.Path;
@@ -73,39 +72,31 @@ class Assignment_Batch {
     public static void main(String[] args) throws Exception {
 
 
-        ArrayList<University_Info> Uni_Info = Parser_Class_With_Tags.Get_Uni_Info();
+        ArrayList<University_Info> Uni_Info = Parse_Perform_Ops.Get_Uni_Info();
 
 
         ArrayList<Tuple> Info;
-        Info = Parser_Class_With_Tags.Parse_Read();
+        Info = Parse_Perform_Ops.Parse_Read();
 
-        Parser_Class_With_Tags.PrinterMethod(Info); //print titles to text file
+        Parse_Perform_Ops.PrinterMethod(Info); //print titles to text file
 
-        ArrayList<University_Info> Total_Dept_Score = Parser_Class_With_Tags.Tuple_Uni_Linker(Uni_Info, Info); //this can be reduced on but how?
+        ArrayList<University_Info> Total_Dept_Score = Parse_Perform_Ops.Tuple_Uni_Linker(Uni_Info, Info); //this can be reduced on but how?
 
-        File folder = new File(System.getProperty("user.dir") + "/data/Subject_data");
-        File[] listOfFiles = folder.listFiles();
+        //this is here for nothing, first i need to create subarraylists
         Collections.sort(Total_Dept_Score);
 
-        //TODO AT this point I have a list of uni_info objects that have lists of tuples within them
-        //TODO These objects are sorted in the Total_Dept_score arraylist of University_info objects
-
-        Configuration conf = new Configuration();
-
-        @SuppressWarnings("deprecation") Job job = new Job(conf, "REFAnalysis");
+        java.util.Map<String, List<University_Info>> MultiMap;
+        MultiMap = Parse_Perform_Ops.ReturnMultiple(Total_Dept_Score); //Splits Data depending on Assess name
 
 
-        //make first mapreduce here -- that is
-        //again sort according to assessment names and then
-        //sort again according to scores
-        //after that perform mapreduce on all titles within those (for each separate csv file, where)
-        //where getUni_Tuples within University_Info object is not empty
+    Configuration conf = new Configuration();
+
+    @SuppressWarnings("deprecation") Job job = new Job(conf, "REFAnalysis");
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
-
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
@@ -114,14 +105,12 @@ class Assignment_Batch {
         job.setInputFormatClass(TextInputFormat.class);
         job.setOutputFormatClass(TextOutputFormat.class);
 
-
-
         FileInputFormat.addInputPath(job, new Path(args[0]));
         FileOutputFormat.setOutputPath(job, new Path(args[1]));
 
         job.waitForCompletion(true);
-    }
-    //the driver class contains the main
+}
+//the driver class contains the main
 
 
 

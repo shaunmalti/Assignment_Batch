@@ -104,13 +104,12 @@ class University_Info implements java.io.Serializable, Comparator<University_Inf
 
     @Override
     public int compareTo(@SuppressWarnings("NullableProblems") University_Info d) {
-        return (d.getScore()).compareTo(this.getScore());
+        return (this.getScore()).compareTo(d.getScore());
     }
 
     @Override
     public int compare(University_Info d, University_Info d1) {
-        return Double.compare(d1.getScore(),d.getScore());
+        return Double.compare(d.getScore(),d1.getScore());
     }
-
 
 }
