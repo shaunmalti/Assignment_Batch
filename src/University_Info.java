@@ -5,15 +5,15 @@ import java.util.Comparator;
  * Created by shaunmarkham on 01/11/2017.
  */
 public class University_Info implements java.io.Serializable, Comparator<University_Info>, Comparable<University_Info> {
-    String ID;
-    String Name;
-    String Asses_Name;
-    String Four_Star;
-    String Three_Star;
-    String Two_Star;
-    String One_Star;
-    Double Score;
-    ArrayList<String> Uni_Tuples = new ArrayList<String>();
+    private String ID;
+    private String Name;
+    private String Asses_Name;
+    private String Four_Star;
+    private String Three_Star;
+    private String Two_Star;
+    private String One_Star;
+    private Double Score;
+    private ArrayList<String> Uni_Tuples = new ArrayList<>();
 
     public ArrayList<String> getUni_Tuples() {
         return Uni_Tuples;
@@ -102,10 +102,12 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
                 + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625);
     }
 
+    @Override
     public int compareTo(University_Info d) {
         return (d.getScore()).compareTo(this.getScore());
     }
 
+    @Override
     public int compare(University_Info d, University_Info d1) {
         return Double.compare(d1.getScore(),d.getScore());
     }

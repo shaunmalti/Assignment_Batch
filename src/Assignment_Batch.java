@@ -72,13 +72,13 @@ public class Assignment_Batch {
 
     }
 
-    public static void main(String[] args) throws Exception,IOException {
+    public static void main(String[] args) throws Exception {
 
 
         ArrayList<University_Info> Uni_Info = Parser_Class_With_Tags.Get_Uni_Info();
 
 
-        ArrayList<Tuple> Info = new ArrayList<Tuple>();
+        ArrayList<Tuple> Info;
         Info = Parser_Class_With_Tags.Parse_Read();
 
         Parser_Class_With_Tags.PrinterMethod(Info); //print titles to text file
@@ -88,16 +88,24 @@ public class Assignment_Batch {
         Collections.sort(Total_Dept_Score);
 
         //TODO AT this point I have a list of uni_info objects that have lists of tuples within them
-
+        //TODO These objects are sorted in the Total_Dept_score arraylist of University_info objects
 
         Configuration conf = new Configuration();
 
         Job job = new Job(conf, "REFAnalysis");
 
+
+        //make first mapreduce here -- that is
+        //again sort according to assessment names and then
+        //sort again according to scores
+        //after that perform mapreduce on all titles within those (for each separate csv file, where)
+        //where getUni_Tuples within University_Info object is not empty
+
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
+
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
