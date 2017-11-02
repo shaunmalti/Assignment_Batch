@@ -1,10 +1,10 @@
 /**
  * Created by shaunmarkham on 01/11/2017.
  */
-public class Tuple {
-    String Uni_ID;
-    String Title;
-    String Asses_name;
+class Tuple {
+    private String Uni_ID;
+    private String Title;
+    private String Asses_name;
 
     public Tuple(String uni_ID, String title, String asses_name) {
         Uni_ID = uni_ID;
@@ -20,7 +20,7 @@ public class Tuple {
         Uni_ID = uni_ID;
     }
 
-    public String getTitle() {
+    private String getTitle() {
         return Title;
     }
 
@@ -43,13 +43,12 @@ public class Tuple {
 //            words[i] = words[i].replaceAll(" ", "_" + this.getUni_ID());
 //        }
         StringBuilder strBuilder = new StringBuilder();
-        for (int i = 0; i < words.length; i++) {
+        for (String word : words) {
 //            strBuilder.append(words[i] + "_" + this.getUni_ID() + " ");
-            strBuilder.append(words[i] + " ");
+            strBuilder.append(word + " ");
         }
-        String newString = strBuilder.toString();
 
-        return newString;
+        return strBuilder.toString();
 //        return sentence;
     }
 }

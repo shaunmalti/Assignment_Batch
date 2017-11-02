@@ -1,11 +1,8 @@
 /**
  * Created by shaunmarkham on 25/10/2017.
  */
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.util.*;
-import org.apache.hadoop.fs.*;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.conf.*;
 import org.apache.hadoop.io.*;
@@ -17,7 +14,7 @@ import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
 
 
-public class Assignment_Batch {
+class Assignment_Batch {
 
     public static class Map extends Mapper<LongWritable, Text, Text, IntWritable>  {//mapper class has 4 values to
         //    specify the: input key, input value, output key and output value
@@ -37,7 +34,7 @@ public class Assignment_Batch {
         }
     }
 
-    public static class Reduce extends Reducer<Text, IntWritable, Text, IntWritable> {
+    private static class Reduce extends Reducer<Text, IntWritable, Text, IntWritable> {
         //3 primary phases: shuffle, sort and reduce
         //parameters for reducer define the types of input and output key/value pairs
 //                collector writes output to filesystem
@@ -52,7 +49,7 @@ public class Assignment_Batch {
     }
 //the driver class contains the main
 
-    public static class Reduce2 extends Reducer<Text, IntWritable, Text, IntWritable> {
+    private static class Reduce2 extends Reducer<Text, IntWritable, Text, IntWritable> {
         //3 primary phases: shuffle, sort and reduce
         //parameters for reducer define the types of input and output key/value pairs
 //                collector writes output to filesystem
@@ -92,7 +89,7 @@ public class Assignment_Batch {
 
         Configuration conf = new Configuration();
 
-        Job job = new Job(conf, "REFAnalysis");
+        @SuppressWarnings("deprecation") Job job = new Job(conf, "REFAnalysis");
 
 
         //make first mapreduce here -- that is

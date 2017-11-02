@@ -4,7 +4,7 @@ import java.util.Comparator;
 /**
  * Created by shaunmarkham on 01/11/2017.
  */
-public class University_Info implements java.io.Serializable, Comparator<University_Info>, Comparable<University_Info> {
+class University_Info implements java.io.Serializable, Comparator<University_Info>, Comparable<University_Info> {
     private String ID;
     private String Name;
     private String Asses_Name;
@@ -57,7 +57,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
         Asses_Name = asses_Name;
     }
 
-    public String getFour_Star() {
+    private String getFour_Star() {
         return Four_Star;
     }
 
@@ -65,7 +65,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
         Four_Star = four_Star;
     }
 
-    public String getThree_Star() {
+    private String getThree_Star() {
         return Three_Star;
     }
 
@@ -73,7 +73,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
         Three_Star = three_Star;
     }
 
-    public String getTwo_Star() {
+    private String getTwo_Star() {
         return Two_Star;
     }
 
@@ -81,7 +81,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
         Two_Star = two_Star;
     }
 
-    public String getOne_Star() {
+    private String getOne_Star() {
         return One_Star;
     }
 
@@ -89,7 +89,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
         One_Star = one_Star;
     }
 
-    public Double getScore() {
+    private Double getScore() {
         return Score;
     }
 
@@ -103,7 +103,7 @@ public class University_Info implements java.io.Serializable, Comparator<Univers
     }
 
     @Override
-    public int compareTo(University_Info d) {
+    public int compareTo(@SuppressWarnings("NullableProblems") University_Info d) {
         return (d.getScore()).compareTo(this.getScore());
     }
 
