@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 /**
  * Created by shaunmarkham on 01/11/2017.
  */
@@ -10,6 +12,15 @@ public class University_Info {
     String Two_Star;
     String One_Star;
     Double Score;
+    ArrayList<String> Uni_Tuples = new ArrayList<String>();
+
+    public ArrayList<String> getUni_Tuples() {
+        return Uni_Tuples;
+    }
+
+    public void addUni_Tuple(String TupleInfo) {
+        Uni_Tuples.add(TupleInfo);
+    }
 
     public University_Info(String ID, String name, String asses_Name, String four_Star, String three_Star, String two_Star, String  one_Star) {
         this.ID = ID;
@@ -77,8 +88,16 @@ public class University_Info {
         One_Star = one_Star;
     }
 
+    public Double getScore() {
+        return Score;
+    }
+
+    public void setScore(Double score) {
+        Score = score;
+    }
+
     public void Calculate_Score() {
-        this.Score = (Double.valueOf(this.getFour_Star())*10)+(Double.valueOf(this.getThree_Star())*5)
-                + (Double.valueOf(this.getTwo_Star())*2) + (Double.valueOf(this.getOne_Star()));
+        this.Score = (Double.valueOf(this.getFour_Star())*0.5)+(Double.valueOf(this.getThree_Star())*0.25)
+                + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625);
     }
 }
