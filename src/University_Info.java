@@ -1,9 +1,10 @@
 import java.util.ArrayList;
+import java.util.Comparator;
 
 /**
  * Created by shaunmarkham on 01/11/2017.
  */
-public class University_Info {
+public class University_Info implements java.io.Serializable, Comparator<University_Info>, Comparable<University_Info> {
     String ID;
     String Name;
     String Asses_Name;
@@ -100,4 +101,14 @@ public class University_Info {
         this.Score = (Double.valueOf(this.getFour_Star())*0.5)+(Double.valueOf(this.getThree_Star())*0.25)
                 + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625);
     }
+
+    public int compareTo(University_Info d) {
+        return (d.getScore()).compareTo(this.getScore());
+    }
+
+    public int compare(University_Info d, University_Info d1) {
+        return Double.compare(d1.getScore(),d.getScore());
+    }
+
+
 }

@@ -52,6 +52,26 @@ public class Assignment_Batch {
     }
 //the driver class contains the main
 
+    public static class Reduce2 extends Reducer<Text, IntWritable, Text, IntWritable> {
+        //3 primary phases: shuffle, sort and reduce
+        //parameters for reducer define the types of input and output key/value pairs
+//                collector writes output to filesystem
+        public void reduce(Text key, Iterable<IntWritable> values, Context context)
+                throws IOException, InterruptedException {
+            int sum = 0;
+            //at this point change input values
+
+            //do reduces in here depending on scores
+
+
+            for (IntWritable val : values) {
+                sum += val.get();
+            }
+            context.write(key, new IntWritable(sum));
+        }
+
+    }
+
     public static void main(String[] args) throws Exception,IOException {
 
 
@@ -65,6 +85,8 @@ public class Assignment_Batch {
 
         ArrayList<University_Info> Total_Dept_Score = Parser_Class_With_Tags.Tuple_Uni_Linker(Uni_Info, Info); //this can be reduced on but how?
 
+        Collections.sort(Total_Dept_Score);
+
         //TODO AT this point I have a list of uni_info objects that have lists of tuples within them
 
 
@@ -74,10 +96,11 @@ public class Assignment_Batch {
 
         job.setOutputKeyClass(Text.class);
         job.setOutputValueClass(IntWritable.class);
-
         job.setMapperClass(Map.class);
         job.setReducerClass(Reduce.class);
 
+        job.setOutputKeyClass(Text.class);
+        job.setOutputValueClass(IntWritable.class);
         job.setReducerClass(Reduce2.class);
 
         job.setInputFormatClass(TextInputFormat.class);
@@ -92,24 +115,7 @@ public class Assignment_Batch {
     }
     //the driver class contains the main
 
-    public static class Reduce2 extends Reducer<Text, IntWritable, Text, IntWritable> {
-        //3 primary phases: shuffle, sort and reduce
-        //parameters for reducer define the types of input and output key/value pairs
-//                collector writes output to filesystem
-        public void reduce(Text key, Iterable<IntWritable> values, Context context)
-                throws IOException, InterruptedException {
-            int sum = 0;
-            //at this point change input values
 
-
-
-            for (IntWritable val : values) {
-                sum += val.get();
-            }
-            context.write(key, new IntWritable(sum));
-        }
-
-    }
 
 
 
