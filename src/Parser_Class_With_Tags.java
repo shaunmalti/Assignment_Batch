@@ -1,9 +1,15 @@
+import au.com.bytecode.opencsv.CSVReader;
+import au.com.bytecode.opencsv.CSVWriter;
 import com.sun.xml.internal.fastinfoset.util.CharArray;
+import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVParser;
+import org.apache.commons.csv.CSVRecord;
 
 import javax.swing.text.Document;
 import javax.swing.text.html.parser.Parser;
 import javax.xml.crypto.Data;
 import java.io.*;
+import java.lang.reflect.Array;
 import java.util.*;
 
 /**
@@ -11,68 +17,6 @@ import java.util.*;
  */
 public class Parser_Class_With_Tags {
 
-    public static String[][] Parser() throws IOException{
-        ArrayList<String> Data = new ArrayList<>();
-        ArrayList<String> LostSentences = new ArrayList<>();
-        String line = "";
-
-        BufferedReader br = null;
-        br = new BufferedReader(new FileReader(
-                "/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/sample/8_8 - Chemistry.csv"));
-
-        while ((line = br.readLine()) != null) {
-            if (line.length() > 50) {
-                Data.add(line);
-            }
-        }
-
-        int skippedlines = 1;
-        String[][] test = new String[Data.size()][];
-        for (int x = 0; x < Data.size() ; x++) {
-            test[x] = Data.get(x).split(","); // make check to append to [9] due to commas in title (check in 10 AND 11 if not null)
-            if (test[x].length >= 12 && ((!test[x][10].isEmpty() && !test[x][11].toString().isEmpty())
-                    || !(test[x][10].isEmpty() && !test[x][11].toString().isEmpty()))) {
-                test[x][9] = test[x][9] + test[x][10] + test[x][11];
-            }else if (test[x].length >= 11 && (!test[x][10].isEmpty() )) {
-                test[x][9] = test[x][9] + test[x][10];
-            }
-            //CHANGE THIS FOR GEOGRAPHY TODO
-            if (test[x].length < 2 ||
-                    ((test[x][2].toString() != "B"
-                            && (test[x][0].toString().length() > 8
-                            && test[x][0].toString().length() != 0))
-                            && x != 1))
-            {
-                LostSentences.add(test[x][0]);
-                skippedlines++;
-            } else if (LostSentences.size() > 0)  {
-                for (int y = 0; y < skippedlines-1; y++) {
-                    test[x-skippedlines][9] = test[x-skippedlines][9] + " " + LostSentences.get(0).toString();
-                    LostSentences.remove(0);
-                }
-                skippedlines = 1;
-            }
-        }
-        return test;
-    }
-
-    public static void PrinterMethod(String[][] Array) throws FileNotFoundException, UnsupportedEncodingException{
-        PrintWriter writer = new PrintWriter("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/textfile/textfile.txt", "UTF-8");
-        for (int x = 0; x < Array.length;x++){
-            //for every word append the code
-            if (Array[x].length > 25 && Array[x][2].toCharArray()[0]=='B') { //TODO change
-                //System.out.println(x);
-                String lastword = Array[x][9].substring(Array[x][9].lastIndexOf(" ")+1);
-                Array[x][9] = Array[x][9].toString().replace(":"," ").replace("."," ").replace("\""," ").replace("\"\""," ")
-                        .replace("?"," ").replace("-"," ").replace("'"," ").replace(" ","_" + Array[x][0].toString() + " ").replace("\n"," ").replace("\r"," ")
-                        .replace(Array[x][9].substring(Array[x][9].lastIndexOf(" ")+1), lastword + "_" + Array[x][0].toString());
-                writer.println(Array[x][9].toString());
-            }
-
-        }
-        writer.close();
-
-    }
 
     public static MyPair Gettags() throws FileNotFoundException, IOException{ //returns mypair class
         BufferedReader br = new BufferedReader(new FileReader(
@@ -89,7 +33,7 @@ public class Parser_Class_With_Tags {
         String[][] Indexes = new String[Data.size()][];
         HashMap<String,Integer> Uni_scores = new HashMap<>();
         for (int x = 0; x < Data.size();x++) {
-            Indexes[x] = Data.get(x).toString().replace("-","0.0").split(",");                             //TODO
+            Indexes[x] = Data.get(x).toString().replace("-","0.0").split(",");
         }
 
         HashMap<String, String> PairsTable = new HashMap<>();
@@ -118,73 +62,6 @@ public class Parser_Class_With_Tags {
         }
     }
 
-    public static Map<String,Double> Uni_Scores(String[][] Indexes) {
-        Map<String, Double> Scores_Uni = new TreeMap<>();
-        Double Score = 0.0;
-        for (int x = 0; x < Indexes.length; x++) {
-            if (Indexes[x].length > 13 && Indexes[x][0].length() == 8) {
-                if (Indexes[x][9].toString().equals("Outputs")) {
-                    Score = (Double.valueOf(Indexes[x][11].toString()) * 10) +
-                            (Double.valueOf(Indexes[x][12].toString()) * 5) +
-                            (Double.valueOf(Indexes[x][13].toString()) * 2) +
-                            (Double.valueOf(Indexes[x][14].toString()) * 1);
-                    if (!Scores_Uni.containsKey((Indexes[x][0]))) {
-                        Scores_Uni.put((Indexes[x][0]).toString(), Score);
-                    } else {
-                        Scores_Uni.put((Indexes[x][0]),
-                                Scores_Uni.get((Indexes[x][0])) + Score);
-                    }
-                } else if (Indexes[x][10].toString().equals("Outputs")) {
-                    Score = (Double.valueOf(Indexes[x][12].toString()) * 10) +
-                            (Double.valueOf(Indexes[x][13].toString()) * 5) +
-                            (Double.valueOf(Indexes[x][14].toString()) * 2) +
-                            (Double.valueOf(Indexes[x][15].toString()) * 1);
-                    if (!Scores_Uni.containsKey((Indexes[x][0]))) {
-                        Scores_Uni.put((Indexes[x][0]), Score);
-                    } else {
-                        Scores_Uni.put((Indexes[x][0]),
-                                Scores_Uni.get((Indexes[x][0])) + Score);
-                    }
-                } else if (Indexes[x][11].toString().equals("Outputs")) {
-                    Score = (Double.valueOf(Indexes[x][13].toString()) * 10) +
-                            (Double.valueOf(Indexes[x][14].toString()) * 5) +
-                            (Double.valueOf(Indexes[x][15].toString()) * 2) +
-                            (Double.valueOf(Indexes[x][16].toString()) * 1);
-                    if (!Scores_Uni.containsKey((Indexes[x][0]))) {
-                        Scores_Uni.put((Indexes[x][0]), Score);
-                    } else {
-                        Scores_Uni.put((Indexes[x][0]),
-                                Scores_Uni.get((Indexes[x][0])) + Score);
-                    }
-                } else if (Indexes[x][12].toString().equals("Outputs")) {
-                    Score = (Double.valueOf(Indexes[x][14].toString()) * 10) +
-                            (Double.valueOf(Indexes[x][15].toString()) * 5) +
-                            (Double.valueOf(Indexes[x][16].toString()) * 2) +
-                            (Double.valueOf(Indexes[x][17].toString()) * 1);
-                    if (!Scores_Uni.containsKey((Indexes[x][0]))) {
-                        Scores_Uni.put((Indexes[x][0]), Score);
-                    } else {
-                        Scores_Uni.put((Indexes[x][0]),
-                                Scores_Uni.get((Indexes[x][0])) + Score);
-                    }
-                } else if (Indexes[x][13].toString().equals("Outputs")) {
-                    Score = (Double.valueOf(Indexes[x][15].toString()) * 10) +
-                            (Double.valueOf(Indexes[x][16].toString()) * 5) +
-                            (Double.valueOf(Indexes[x][17].toString()) * 2) +
-                            (Double.valueOf(Indexes[x][18].toString()) * 1);
-                    if (!Scores_Uni.containsKey((Indexes[x][0]))) {
-                        Scores_Uni.put((Indexes[x][0]), Score);
-                    } else {
-                        Scores_Uni.put((Indexes[x][0]),
-                                Scores_Uni.get((Indexes[x][0])) + Score);
-                    }
-                }
-            }
-        }
-        Map<String,Double> Sorted_Scores_Uni = sortByValue(Scores_Uni);
-        return Sorted_Scores_Uni;
-    }
-
     public static <K, V extends Comparable<? super V>> Map<K, V>
     sortByValue(Map<K, V> map) {
         List<Map.Entry<K, V>> list = new LinkedList<>(map.entrySet());
@@ -202,42 +79,71 @@ public class Parser_Class_With_Tags {
         return result;
     }
 
-    public static class MyPair {
-        private HashMap<String,String> Pair_Hash;
-        private String[][] Pair_Indexes;
-
-        public MyPair(HashMap<String, String> pair_Hash, String[][] pair_Indexes) {
-            Pair_Hash = pair_Hash;
-            Pair_Indexes = pair_Indexes;
+    public static ArrayList<Tuple> Parse_Read() throws Exception
+    {
+        CSVReader reader = new CSVReader(new FileReader("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/sample/9_9 - Physics.csv"), ',' , '"' , 1);
+        ArrayList<Tuple> Data = new ArrayList<Tuple>();
+        List<String[]> myEntries = reader.readAll();
+        String[][] Info = new String[myEntries.size()][];
+        for (int x=5;x<myEntries.size();x++) {
+            Tuple test = new Tuple(myEntries.get(x)[0],myEntries.get(x)[9]);
+            Data.add(test);
         }
 
-        public HashMap<String, String> getPair_Hash() {
-            return Pair_Hash;
-        }
-
-        public void setPair_Hash(HashMap<String, String> pair_Hash) {
-            Pair_Hash = pair_Hash;
-        }
-
-        public String[][] getPair_Indexes() {
-            return Pair_Indexes;
-        }
-
-        public void setPair_Indexes(String[][] pair_Indexes) {
-            Pair_Indexes = pair_Indexes;
-        }
+        return Data;
     }
 
-    public static void main(String[] args) throws IOException{
-        String[][] DataArray = Parser(); //parse data
-        PrinterMethod(DataArray); //print titles to text file
+    public static void PrinterMethod(ArrayList<Tuple> Array_Data) throws FileNotFoundException, UnsupportedEncodingException{
+        PrintWriter writer = new PrintWriter("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/textfile/textfile.txt", "UTF-8");
+        for (int x = 0; x < Array_Data.size();x++){
+            writer.println(Array_Data.get(x).getWords());
+        }
+        writer.close();
+    }
 
-        MyPair Gettags = Gettags(); //get indexes and names of unis
+    public static ArrayList<University_Info> newgettags() throws Exception {
+        CSVReader reader = new CSVReader(new FileReader("/Users/shaunmarkham/IdeaProjects/Batch_Test_CSV_Convert/REF2014_Results.csv"), ',', '"', 1);
+        ArrayList<University_Info> Data = new ArrayList<University_Info>();
+        List<String[]> myEntries = reader.readAll();
+        for (int x = 7; x < myEntries.size(); x++) {
+            if (myEntries.get(x)[9].toString().equals("Outputs")) {
+                University_Info test = new University_Info(myEntries.get(x)[0], myEntries.get(x)[1], myEntries.get(x)[5],
+                        myEntries.get(x)[11].replace("-","0.0"), myEntries.get(x)[12].replace("-","0.0"), myEntries.get(x)[13].replace("-","0.0"),
+                        myEntries.get(x)[14].replace("-","0.0"));
+                test.Calculate_Score();
+                Data.add(test);
+            }
+        }
+        return Data;
+    }
 
-        //SplitMethod(); //split reduced occurrances
-        String[][] Indexes = Gettags.getPair_Indexes();
-        Map<String,Double> Uni_ID_Scores = Uni_Scores(Indexes);
 
+    public static void main(String[] args) throws IOException,Exception{
+
+//
+// MyPair Gettags = Gettags(); //get indexes and names of unis
+        ArrayList<University_Info> Uni_Info = newgettags();
+        ArrayList<University_Info> Total_Dept_Score = newmethod(Uni_Info);
+        SplitMethod(); //split reduced occurrences
+
+//        String[][] Indexes = Gettags.getPair_Indexes();
+//        Map<String,Double> Uni_ID_Scores = Uni_Scores(Indexes);
+
+        ArrayList<Tuple> Info = new ArrayList<Tuple>();
+        Info = Parse_Read();
+
+        PrinterMethod(Info); //print titles to text file
+    }
+
+
+    public static ArrayList<University_Info> newmethod(ArrayList<University_Info> Uni_Info) {
+        ArrayList<University_Info> Reduced_Uni_Info = new ArrayList<University_Info>();
+
+        for (int x=0;x<Uni_Info.size();x++) {
+
+        }
+
+        return Uni_Info;
     }
 
 }

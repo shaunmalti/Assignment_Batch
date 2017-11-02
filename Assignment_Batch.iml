@@ -41,5 +41,17 @@
         <jarDirectory url="file:///usr/local/Cellar/hadoop/2.8.1/libexec/share/hadoop/common/lib" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../commons-csv-1.5/commons-csv-1.5.jar!/" />
+          <root url="jar://$MODULE_DIR$/../commons-csv-1.5/opencsv-1.7.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../commons-csv-1.5/commons-csv-1.5-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>
