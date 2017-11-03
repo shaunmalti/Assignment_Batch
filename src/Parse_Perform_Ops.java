@@ -40,6 +40,8 @@ class Parse_Perform_Ops {
     }
 
     public static void PrinterMethod(University_Info object, File file) throws FileNotFoundException, UnsupportedEncodingException, IOException {
+        file.delete();
+        file.createNewFile();
         PrintWriter writer = new PrintWriter(new FileWriter(file, true));
         for (String aArray_Data : object.getUni_Tuples()) {
             writer.println(aArray_Data);
