@@ -39,16 +39,11 @@ class Tuple {
     public String getWords() {                                          //TODO CHANGE THIS IF I WANT THE UNIVERSITY ID APPENDED
         String sentence;
         String[] words = this.getTitle().split("\\s+");
-//        for (int i = 0; i < words.length; i++) {
-//            words[i] = words[i].replaceAll(" ", "_" + this.getUni_ID());
-//        }
         StringBuilder strBuilder = new StringBuilder();
         for (String word : words) {
-//            strBuilder.append(words[i] + "_" + this.getUni_ID() + " ");
             strBuilder.append(word + " ");
         }
 
         return strBuilder.toString();
-//        return sentence;
     }
 }

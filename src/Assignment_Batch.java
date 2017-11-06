@@ -63,14 +63,13 @@ class Assignment_Batch {
         ArrayList<University_Info> Total_Dept_Score = Parse_Perform_Ops.Tuple_Uni_Linker(Uni_Info, Info); //this can be reduced on but how?
 
         //this is here for nothing, first i need to create subarraylists
-        Collections.sort(Total_Dept_Score);
+
 
         java.util.Map<String, List<University_Info>> MultiMap;
-        MultiMap = Parse_Perform_Ops.ReturnMultiple(Total_Dept_Score); //Splits Data depending on Assess name, return multimap with top 10 in each category
+        MultiMap = Parse_Perform_Ops.ReturnMultiple(Total_Dept_Score,1); //Splits Data depending on Assess name, return multimap with top 10 in each category
 
+        Parse_Perform_Ops.getBestandWorst(Total_Dept_Score);
 
-        //next step is go through values in MultiMap.getkeyset() in a for string vals:
-        //check if the university contains tuples. if yes write to separate text file.
         boolean preproc = false;
         for (String item : MultiMap.keySet()) {
             for (University_Info object : MultiMap.get(item)) {

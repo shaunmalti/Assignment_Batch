@@ -1,16 +1,15 @@
 import au.com.bytecode.opencsv.CSVReader;
+
+import com.sun.xml.bind.v2.runtime.unmarshaller.XsiNilLoader;
 import org.apache.commons.io.FileUtils;
 
 import java.io.*;
-import java.nio.DoubleBuffer;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 import java.util.*;
 
-import static org.apache.commons.io.FileUtils.moveDirectory;
-import static org.apache.commons.io.FileUtils.write;
 
 /**
  * Created by shaunmarkham on 25/10/2017.
@@ -92,7 +91,7 @@ class Parse_Perform_Ops {
         return Uni_Info;
     }
 
-    public static Map<String, List<University_Info>>  ReturnMultiple(ArrayList<University_Info> Total_Dept_Score) {
+    public static Map<String, List<University_Info>>  ReturnMultiple(ArrayList<University_Info> Total_Dept_Score, int option) {
         Map<String, List<University_Info>> result = new HashMap<>();
         for (University_Info p : Total_Dept_Score) {
             List<University_Info> list = result.get(p.getAsses_Name());
@@ -126,7 +125,7 @@ class Parse_Perform_Ops {
         Map<String,Integer> Sorted_Data = sortByValue(Data);
         int total_occ = 0;
         for (String aArray_Data : Sorted_Data.keySet()) {
-           total_occ += Sorted_Data.get(aArray_Data);
+            total_occ += Sorted_Data.get(aArray_Data);
         }
         PrintWriter writer = new PrintWriter(new FileWriter(output));
         for (String aArray_Data : Sorted_Data.keySet()) {
@@ -151,4 +150,73 @@ class Parse_Perform_Ops {
         }
         return result;
     }
+
+    public static void getBestandWorst(ArrayList<University_Info> Total_Info_Scores) throws IOException{
+        Collections.sort(Total_Info_Scores);
+        ArrayList<University_Info> Worst = new ArrayList<>();
+        ArrayList<University_Info> Best = new ArrayList<>();
+        for (University_Info item : Total_Info_Scores) {
+            if (item.Contains_Tuples() == true) {
+                Worst.add(item);
+                Best.add(item);
+            }
+        }
+
+        java.util.Map<String, List<University_Info>> worstresult = new HashMap<>();
+        java.util.Map<String, List<University_Info>> bestresult = new HashMap<>();
+        for (University_Info p : Total_Info_Scores) {
+            List<University_Info> worstlist = worstresult.get(p.getAsses_Name());
+            List<University_Info> bestlist = bestresult.get(p.getAsses_Name());
+            if (worstlist == null) {
+                worstlist = new ArrayList<>();
+                bestlist = new ArrayList<>();
+                worstresult.put(p.getAsses_Name(), worstlist);
+                bestresult.put(p.getAsses_Name(),bestlist);
+            }
+            worstlist.add(p);
+            bestlist.add(p);
+        }
+        for (String items : worstresult.keySet()) {
+            Collections.sort(worstresult.get(items));
+            Collections.sort(bestresult.get(items));
+            if (worstresult.get(items) != null) {
+                while (worstresult.get(items).size() > 10) { //get top 10 unis for each category
+                    worstresult.get(items).remove(worstresult.get(items).size()-1);
+                    bestresult.get(items).remove(0);
+                }
+            }
+        }
+
+//        now print result
+        new File(System.getProperty("user.dir") + "/WorstHalf").mkdir();
+        for (String item : worstresult.keySet()) {
+            for (University_Info object : worstresult.get(item)) {
+                if (object.Contains_Tuples() == true) {
+                    File worstfile = new File(System.getProperty("user.dir") + "/WorstHalf/" + "Worst10_" + object.getAsses_Name().substring(0,3) + ".txt");
+                    if (!worstfile.exists()) {
+                        worstfile.createNewFile();
+                    }
+                    Parse_Perform_Ops.PrinterMethod(object, worstfile);
+                } else {
+                    continue;
+                }
+            }
+        }
+
+        new File(System.getProperty("user.dir") + "/BestHalf").mkdir();
+        for (String item : bestresult.keySet()) {
+            for (University_Info object : bestresult.get(item)) {
+                if (object.Contains_Tuples() == true) {
+                    File bestfile = new File(System.getProperty("user.dir") + "/BestHalf/" + "Best10_" + object.getAsses_Name().substring(0,3) + ".txt");
+                    if (!bestfile.exists()) {
+                        bestfile.createNewFile();
+                    }
+                    Parse_Perform_Ops.PrinterMethod(object, bestfile);
+                } else {
+                    continue;
+                }
+            }
+        }
+    }
+
 }
