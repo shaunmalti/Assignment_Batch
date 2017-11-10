@@ -241,16 +241,17 @@ class Parse_Perform_Ops {
 
     public static java.util.Map<String, List<University_Info>> Append_Words(java.util.Map<String, List<University_Info>> MultiMap) {
         //method to append a score to each word based off of University position
-        int x = 1;
+        int x = 0;
         java.util.Map<String, List<University_Info>> Appended = MultiMap;
         for (String newit : Appended.keySet()) {
             if (Appended.get(newit).get(0).Contains_Tuples()==true) {
-                x=1;
+                x=0;
             }
+            x=0;
             for (University_Info newobj : Appended.get(newit)) {
+                x++;
                 if (newobj.Contains_Tuples() == true) {
                     newobj.Append_wordscore(String.valueOf(x));
-                    x++;
                 }
             }
         }
