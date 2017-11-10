@@ -7,6 +7,7 @@ class Tuple {
     private String Asses_name;
 
     public Tuple(String uni_ID, String title, String asses_name) {
+        //class for university papers
         Uni_ID = uni_ID;
         Title = title;
         Asses_name = asses_name;
@@ -36,8 +37,8 @@ class Tuple {
         Title = title;
     }
 
-    public String getWords() {                                          //TODO CHANGE THIS IF I WANT THE UNIVERSITY ID APPENDED
-        String sentence;
+    public String getWords() {
+        //method that returns the words in the paper title
         String[] words = this.getTitle().split("\\s+");
         StringBuilder strBuilder = new StringBuilder();
         for (String word : words) {

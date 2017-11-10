@@ -5,6 +5,7 @@ import java.util.Comparator;
  * Created by shaunmarkham on 01/11/2017.
  */
 class University_Info implements java.io.Serializable, Comparator<University_Info>, Comparable<University_Info> {
+    //University information class
     private String ID;
     private String Name;
     private String Asses_Name;
@@ -14,9 +15,14 @@ class University_Info implements java.io.Serializable, Comparator<University_Inf
     private String One_Star;
     private Double Score;
     private ArrayList<String> Uni_Tuples = new ArrayList<>();
+    private ArrayList<String> Word_Score = new ArrayList<>();
 
     public ArrayList<String> getUni_Tuples() {
         return Uni_Tuples;
+    }
+
+    public ArrayList<String> getWord_Score() {
+        return Word_Score;
     }
 
     public void addUni_Tuple(String TupleInfo) {
@@ -98,8 +104,9 @@ class University_Info implements java.io.Serializable, Comparator<University_Inf
     }
 
     public void Calculate_Score() {
-        this.Score = (Double.valueOf(this.getFour_Star())*0.5)+(Double.valueOf(this.getThree_Star())*0.25)
-                + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625);
+        //method to calculate score of each University department
+        this.Score = (((Double.valueOf(this.getFour_Star())*0.5)+(Double.valueOf(this.getThree_Star())*0.25)
+                + (Double.valueOf(this.getTwo_Star())*0.125) + (Double.valueOf(this.getOne_Star())*0.0625))*getUni_Tuples().size())/100;
     }
 
     public boolean Contains_Tuples() {
@@ -107,6 +114,13 @@ class University_Info implements java.io.Serializable, Comparator<University_Inf
             return true;
         else
             return false;
+    }
+
+    public void Append_wordscore(String value) {
+        //method to append a score to each word based off of University position
+        for (String obj: this.Uni_Tuples) {
+            this.Word_Score.add(obj.replace(" ","_" + value + " "));
+        }
     }
 
     @Override
